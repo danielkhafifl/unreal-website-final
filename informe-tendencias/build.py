@@ -333,6 +333,25 @@ def transform(body_html, imgdir):
             else:
                 wrap = soup.new_tag('div', attrs={'class': 'tbl tbl-keep'})
                 table.wrap(wrap)
+    # photos first: move each trend's «Referencias visuales» block right under its heading/status line
+    for h3 in list(soup.find_all('h3')):
+        sib = h3.find_next_sibling(); block = []
+        while sib is not None and sib.name not in ('h1', 'h2', 'h3'):
+            if sib.name == 'h4' and 'referencias visuales' in norm(sib.get_text(' ', strip=True)):
+                nxt = sib.find_next_sibling()
+                block.append(sib)
+                if nxt is not None and nxt.name == 'div' and 'ref-grid' in (nxt.get('class') or []):
+                    block.append(nxt)
+                break
+            sib = sib.find_next_sibling()
+        if len(block) == 2:
+            anchor = h3
+            n1 = h3.find_next_sibling()
+            if n1 is not None and n1.name == 'div' and 'estado' in (n1.get('class') or []):
+                anchor = n1
+            for el in block:
+                el.extract()
+            anchor.insert_after(block[0]); block[0].insert_after(block[1])
     # callouts
     for bq in soup.find_all('blockquote'):
         st = bq.find('strong')
