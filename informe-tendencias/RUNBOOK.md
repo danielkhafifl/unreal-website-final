@@ -65,6 +65,8 @@ Crea `work/meta.json`:
  "coverage": ["Novedades del 2 al 8 de noviembre de 2026", "Otoño-Invierno 2026 (en tienda) · Primavera-Verano 2027 (pasarelas de junio de 2026)"],
  "footer": "Tendencias de moda masculina · Actualización del 9 de noviembre de 2026"}
 ```
+Antes de generar, corrige los créditos de Vogue con el crédito propio de cada look: `python3 tools/fix_credits.py "<md>"` (usa el campo desktopCredit de cada foto). No incrustes fotos de producto con modelos generados por IA (por ejemplo, fichas que dicen «Modelo realizado con IA»): usa una foto plana de la misma ficha o deja la celda «Imagen» en «—».
+
 Guarda el Markdown final en `<REPO>/reports/<AAAA-MM-DD> Tendencias moda masculina <semanal|mensual>.md` y genera:
 ```bash
 python3 build.py "<md>" "<REPO>/reports/<mismo nombre>.pdf" --meta work/meta.json
