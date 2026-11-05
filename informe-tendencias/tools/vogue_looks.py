@@ -35,10 +35,7 @@ def walk(o):
                     src = (img.get('sources') or {})
                     u = (src.get('lg') or src.get('xl') or src.get('md') or {}).get('url')
                     thumb = (src.get('sm') or {}).get('url')
-                    cred = None
-                    js = json.dumps(it)
-                    mc = re.search(r'"credit":\s*"([^"]+)"', js)
-                    if mc: cred = mc.group(1)
+                    cred = it.get('desktopCredit') or it.get('mobileCredit') or (img.get('credit') if isinstance(img, dict) else None)
                     mn = re.search(r'/(\d{5})-[^/]*$', u or '')
                     ln = it.get('lookNumber') or (str(int(mn.group(1))) if mn and gid == 'gallery-collection' else None) or it.get('caption') or str(len(looks) + 1)
                     looks.append({'gallery': gid, 'look': ln, 'url': u, 'thumb': thumb,
@@ -48,10 +45,7 @@ def walk(o):
     elif isinstance(o, list):
         for v in o: walk(v)
 walk(d)
-# fallback credit from page
-if not any(l['credit'] for l in looks):
-    mc = re.findall(r'"credit":"(Photo:[^"]+)"', s)
-    for l in looks: l['credit'] = mc[0].encode().decode('unicode_escape') if mc else None
+# credit comes from each look's own desktopCredit; never borrow another gallery's credit
 for l in looks:
     cred = (l['credit'] or 'n/d').replace('\\u002F', '/')
     l['credit'] = cred
