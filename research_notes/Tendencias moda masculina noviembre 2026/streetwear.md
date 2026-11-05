@@ -408,7 +408,7 @@
 
 ## 6. No verificado / vacíos
 
-- **Nada fue verificado en una página abierta.** WebFetch devolvió `ENOTFOUND` para hypebeast.com y hypebae.com (política de red), y por indicación del entorno no se probaron otros dominios.
+- **Nada fue verificado en una página abierta.** WebFetch está bloqueado para todos los sitios: `ENOTFOUND` en hypebeast.com y hypebae.com, y el coordinador confirmó que el bloqueo es general. Todos los datos son extractos de búsqueda.
   - **Para completar hay que permitir en la configuración de red del entorno** al menos hypebeast.com, hypebae.com, highsnobiety.com, complex.com, sneakernews.com, supremecommunity.com, vogue.com, businessoffashion.com y lyst.com, además de los sitios de marca.
   - El presupuesto compartido de WebSearch (200 por turno) se agotó; un mensaje de seguimiento permitiría continuar.
 - **Sin imágenes:** no hay URLs directas de imagen, números de look ni créditos. La tabla 3 solo lista páginas.
