@@ -1,0 +1,10 @@
+node_modules/
+images/
+images_opt/
+pagecache/
+work/
+_fill.png
+pass1.pdf
+report.html
+toc.json
+qa/

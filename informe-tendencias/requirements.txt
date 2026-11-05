@@ -1,0 +1,5 @@
+markdown-it-py[linkify]
+mdit-py-plugins
+beautifulsoup4
+pillow
+pypdf

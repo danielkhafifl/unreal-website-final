@@ -1,0 +1,9 @@
+{
+  "name": "informe-tendencias",
+  "private": true,
+  "description": "Fuentes tipográficas para el PDF del informe de tendencias",
+  "dependencies": {
+    "@fontsource/bodoni-moda": "^5.0.0",
+    "@fontsource/inter": "^5.0.0"
+  }
+}
