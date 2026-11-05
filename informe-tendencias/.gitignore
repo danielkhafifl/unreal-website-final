@@ -8,3 +8,4 @@ pass1.pdf
 report.html
 toc.json
 qa/
+__pycache__/
