@@ -311,19 +311,19 @@ Falta cubrir lujo: Prada, Dior, Acne Studios, Diesel y Celine en SSENSE o Mr Por
 
 ## 6. No verificado / vacíos
 
-- **Bloqueo técnico:** WebFetch falló por DNS o política de red en fashionunited.com, wwd.com, out.com y morningstar.com, y no se probaron más hosts. Más tarde se agotó el cupo de WebSearch, compartido entre agentes. **Ningún dato de este archivo se leyó en una página abierta; todo es extracto de búsqueda (página no abierta).**
-- **Imágenes:** 0 URLs directas de imagen y 0 créditos. No se abrieron galerías de Vogue Runway.
-- **Productos:** 0 verificados, 11 candidatos (varios son categorías) y casi sin precios. Faltan el nivel lujo (Prada, Dior, Acne, Diesel, Celine) y Uniqlo, H&M, Pull&Bear, Gap, Wrangler, Carhartt WIP y AGOLDE.
+- **Bloqueo técnico:** WebFetch falló por DNS o política de red en fashionunited.com, wwd.com, out.com y morningstar.com, y no se probaron más hosts. El coordinador confirmó que WebFetch está bloqueado para todos los sitios y permitió usar los extractos de búsqueda con esa etiqueta. El cupo de WebSearch, compartido entre agentes, ya estaba agotado: un reintento posterior a la actualización del coordinador fue rechazado, así que no se sumaron búsquedas por tendencia, de Vogue Runway ni de productos. **Ningún dato de este archivo se leyó en una página abierta; todo es extracto de búsqueda (página no abierta).**
+- **Imágenes:** 0 URLs directas de imagen y 0 fotos vistas. Hay 26 páginas de referencia con el medio como crédito. No aparecieron URLs de colección de Vogue Runway.
+- **Productos:** 0 abiertos, 11 enlaces de resultado de búsqueda (varios son categorías) y casi sin precios. Faltan el nivel lujo (Prada, Dior, Acne, Diesel, Celine) y Uniqlo, H&M, Pull&Bear, Gap, Wrangler, Carhartt WIP y AGOLDE.
 - **Pesos en oz:** no aparecieron en ninguna fuente.
 - **Casas sin dato de denim SS27 masculino:** Loewe, Louis Vuitton (solo mencionado), Our Legacy, Wales Bonner, Bode, Kidill, Junya Watanabe MAN, ERL, Bluemarble. Kidill, Junya y ERL ni siquiera se buscaron por falta de cupo.
 - **Pre-Spring 2027:** no se encontraron lanzamientos.
 - **Contradicciones:**
-  - Prada: pierna "más holgada" (SJ Milán) frente a slim o angosta (V, tfashion, Denimology). Posiblemente es la colección femenina.
+  - Prada: pierna "más holgada" (SJ Milán) frente a slim o angosta (V, tfashion, Denimology). INFERENCIA no verificada: la pieza de SJ podría referirse a la colección femenina SS27 de Prada.
   - Color de los shorts de Dior SS27: amarillo antiguo (SJ, Out) o rosa (Harper's Bazaar SG).
   - Cone y Artistic Milliners: TexData dice adquisición; InsideDenim dice acuerdo cancelado.
   - Levi's DTC: el resultado reportado fue débil (+2%; EE. UU. −1%), pero el titular de Chain Store Age dice "DTC drives sales".
   - Fechas de Colombiamoda 2026: cuatro versiones distintas.
-- **Género o temporada dudosos:** varias piezas de SJ con ID 12393xxxxx (Diesel "última colección de Glenn Martens", Blumarine, Dsquared2, Balenciaga wide-leg, "París oscuro", Auralee) parecen de las semanas femeninas o co-ed de sept.-oct. de 2026, no de los desfiles masculinos de junio. Es inferencia a partir del patrón de los URLs.
+- **Género o temporada dudosos (INFERENCIA, no verificada):** varias piezas de SJ con ID 12393xxxxx (Diesel "última colección de Glenn Martens", Blumarine, Dsquared2, Balenciaga wide-leg, "París oscuro", Auralee) parecen de las semanas femeninas o co-ed de sept.-oct. de 2026, no de los desfiles masculinos de junio. Es inferencia a partir del patrón de los URLs.
 - **Comentario de Levi's sobre el tiro bajo:** no se confirmó si se refiere a hombre.
 - **Fechas de prensa de hilanderías SS27** (Candiani, Freedom, Siddiqsons, Soorty y otras): sin confirmar, posiblemente de 2025, y por tanto antecedente.
 - **"PP-free Denim Mission" (2 nov. 2026):** solo hay un titular en un listado lateral; no se encontraron la nota ni sus impulsores.

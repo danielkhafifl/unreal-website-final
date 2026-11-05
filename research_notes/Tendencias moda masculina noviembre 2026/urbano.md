@@ -43,8 +43,8 @@
 - **Wales Bonner SS27 "Sun Poem"**: sastrería relajada, punto de canalé y beige, marrón y marfil apagados con acentos de color primario *(Metal Magazine, n/d)*.
 
 **Especificaciones**
-- **Siluetas y cortes:** camisa cruzada (wrap) tipo yukata; chaqueta de cuello mandarín; caftán o camisa larga fluida; pantalón barrel o balloon con cintura elástica; camisa con cuello abierto.
-- **Telas:** lino y algodón-lino; popelina; algodón teñido en prenda; organza; nylon vaporoso; seda (anorak); cuero ligero; intrecciato (tejido abierto).
+- **Siluetas y cortes:** camisa cruzada (wrap) inspirada en la yukata y chaqueta mandarín reinterpretada (Lemaire); caftán de lana fluido, pantalón barrel de organza y pantalón balloon con cintura elástica (Jacquemus); cuello abierto (Pitti street style).
+- **Telas:** lino (Pitti/Nobile, Colombiamoda, Arturo Calle) y algodón-lino (Arturo Calle); popelina (Officine Générale); algodón teñido en prenda (Lemaire); organza y nylon vaporoso (Jacquemus); seda en anorak (Loewe); cuero ligero (Lemaire); intrecciato, el cuero tejido de Bottega Veneta.
 - **Colores:** neutros terrosos (marrón ahumado, nogal, tiza, arena) con azul océano o aguamarina; amarillo mantequilla, rosa y blanco.
 - **Estampados:** palma, océano y cielo (Lemaire); rayas en lino (Pitti street style). *No se encontró evidencia 2026 de madras, florales conversacionales ni seersucker* (ver sección 6).
 - **Detalles:** puños en contraste (Jacquemus), flecos (Bottega), brillo lacado en denim (Lemaire).
@@ -64,10 +64,10 @@
 - **Prada SS27 Men** (Milán, junio 2026): Simons dice "very, very, very much are rejecting complication and decoration" *(WWD)*. El jean es "the most universal garment" y articula el desfile *(AnOther Magazine, n/d)*.
 
 **Especificaciones**
-- **Siluetas y cortes:** blazer sin forro usado como sobrecamisa; outerwear de hombro suave; Bermuda sastre; caída larga. **Proporción en disputa:** Prada **achica** el jean y la chaqueta denim (jean skinny) y COS AW26 vuelve a **cortes más estrechos y pantalón slim**, mientras en Pitti siguen el pantalón ancho y acampanado y Jacquemus propone balloon. Ver T7.
-- **Telas:** lana fría o ligera, algodón de camisería, nylon ligero, tejidos técnicos translúcidos.
+- **Siluetas y cortes:** traje sin forro, blazers oversize y outerwear de estructura suave (Ami); Bermuda sastre (FACES); líneas largas y formas desestructuradas (Man of Many). **Proporción en disputa:** Prada **achica** el jean y la chaqueta denim (jean skinny) y COS AW26 vuelve a **cortes más estrechos y pantalón slim**, mientras en Pitti sigue el pantalón ancho y acampanado y Jacquemus propone balloon. Ver T7.
+- **Telas:** camisería ligera (Ami); nylons ligeros, tejidos tipo cortavientos y técnicos translúcidos (FACES); telas ligeras (Man of Many).
 - **Colores:** rojo rubí con negro y azul (Ami); tonos suaves y aireados (Officine).
-- **Detalles:** construcción sin forro, hombro natural, cuello abierto sobre la solapa (Pitti).
+- **Detalles:** construcción sin forro (Ami); cuello abierto, también por encima de la solapa (Pitti, FashionUnited).
 
 ---
 
@@ -87,7 +87,7 @@
 - **Telas:** merino (Wales Bonner), crochet (polos, Vogue Adria), tartán y camuflaje (Our Legacy). La tela de las Harrington no aparece en los extractos.
 - **Colores:** neutros terrosos con **rojo**; combinaciones primarias intensas (Wales Bonner).
 - **Estampados:** tartán, camuflaje, cuadros en el cuello.
-- **Detalles:** **ribete doble en contraste (twin-tipping)** en cuello y puño; bordes deshilachados; híbridos punto-camisa (Loewe). *Sin evidencia hallada sobre botones de cuerno.*
+- **Detalles:** **ribete doble en contraste (twin-tipping)** en punto y polos (Our Legacy x Fred Perry); acabados deshilachados (Our Legacy); camisas con elementos de suéter y punto que pasa a camisa (Loewe); camisería con corsetería (Our Legacy). *Sin evidencia hallada sobre botones de cuerno.*
 
 ---
 
@@ -105,10 +105,10 @@
 - **Massimo Dutti** (The Objective, 25 ago 2026 según la URL): una chaqueta corta cruzada de ante, sin confirmar si es de hombre, y un bomber oversize de ante marrón chocolate (probablemente de mujer). Lyst lista la "MASSIMO DUTTI Nubuck Leather Jacket With Pocket Detail – Brown", sin temporada confirmada.
 
 **Especificaciones**
-- **Siluetas y cortes:** flight jacket o bomber corta; chaqueta cruzada corta; mandarín; sobrecamisa de lana con aplicaciones de cuero (Hermès FW26).
+- **Siluetas y cortes:** flight jacket de cuero (COS); chaqueta de cuero corta (Vogue Adria); chaqueta corta cruzada de ante (Massimo Dutti; el extracto no dice si es de hombre); chaqueta mandarín (Lemaire); sobrecamisa de lana con detalles de cuero (Hermès FW26).
 - **Telas:** ante, nobuk (Massimo Dutti vía Lyst), cuero ligero (Lemaire), cuero perforado o con costuras caladas (Hermès SS27), algodón encerado (trench COS).
-- **Colores:** marrón, chocolate y caramelo; oliva, burdeos, marino; negro.
-- **Detalles:** perforaciones; costuras abiertas; ante en cuello y bolsillos.
+- **Colores:** marrón dominante, más oliva, burdeos y marino (Apparel Resources); caramelo (Hermès SS27); negro (Ape to Gentleman).
+- **Detalles:** perforaciones y costuras caladas (Hermès SS27); ante en cuellos y vivos de bolsillo (Apparel Resources).
 
 ---
 
@@ -130,9 +130,9 @@
 
 **Especificaciones**
 - **Siluetas y cortes:** chore coat a la cadera (consejo de fit de un blog: Real Men Real Style); sobrecamisa con cuello alto (stand collar, Massimo Dutti vía Lyst); blouson (Kaptain Sunshine vía Mr Porter).
-- **Telas:** algodón teñido en prenda, popelina, lana (sobrecamisa de invierno), algodón encerado, seda-gabardina (Kaptain Sunshine), tejidos de molino europeo (Deveaux).
+- **Telas:** algodón 100% teñido en prenda (Early Work); popelina (Officine Générale); lana (sobrecamisa Hermès FW26); algodón encerado (trench COS); seda-gabardina (Kaptain Sunshine); tela del molino Deveaux (Wax London).
 - **Colores:** verde caqui y azul Klein (Auralee vía Mr Porter). No hay más datos de color en los extractos de este bloque.
-- **Detalles:** **bolsillos de parche**; cremallera en lugar de botón (Wax London); lavados envejecidos; alamares.
+- **Detalles:** cremallera (Wax London); lavados y acabados envejecidos (Séfr); alamares, capuchas tipo parka y bolsillos extra (Wallpaper*). *Bolsillos de parche: sin evidencia en los extractos.*
 
 ---
 
@@ -151,7 +151,7 @@
 
 **Especificaciones**
 - **Siluetas y cortes:** cárdigan de ochos (GU x EG) o con cremallera (Hermès); polo de punto (Our Legacy, Wales Bonner); chaleco ceñido ("snug", Prada); chaleco de pescador (Man of Many).
-- **Telas:** merino, algodón, crochet, cachemir ligero.
+- **Telas:** merino (Wales Bonner), crochet (Vogue Adria), cachemir ligero (Nobile, Pitti). El material del cárdigan GU x EG no aparece en el extracto.
 - **Colores:** combinaciones intensas (Wales Bonner); neutros con rojo (Our Legacy).
 - **Estampados:** patrones retro de "cortina" (Prada); ochos (cable).
 - **Detalles:** ribete doble en contraste (Fred Perry/Our Legacy); cremallera con detalle de cuero (Hermès); crochet (Vogue Adria).
@@ -168,7 +168,7 @@
 
 **Especificaciones**
 - **Colores:** amarillo mantequilla, aguamarina, rosa, verde anís, rojo rubí y rojo intenso como acento sobre neutros terrosos (marrón ahumado, nogal, tiza, arena). La salvia aparece solo en blogs.
-- **Siluetas y cortes:** pantalón recto o slim más limpio frente al ancho; las dos señales conviven.
+- **Siluetas y cortes:** cortes más estrechos y pantalón slim (COS AW26) y jean skinny (Prada SS27), frente a pantalón ancho acampanado (street style de Pitti), balloon y barrel (Jacquemus) y pantalones amplios (Colombiamoda). Las dos señales conviven.
 - **Detalles:** no se encontró evidencia específica.
 
 ---
@@ -275,6 +275,7 @@
 ## 6. No verificado / vacíos
 
 - **Ninguna página se abrió.** WebFetch falló por DNS y política de red en wwd.com, hypebeast.com y www.apetogentleman.com, y la herramienta pidió no insistir con más hosts. Todo lo marcado como OBSERVADO viene de **resúmenes de WebSearch**. Para cumplir el estándar del brief hay que habilitar dominios en la configuración de red del entorno (Network access → Allowed domains) y re-verificar.
+- **Después de la instrucción revisada del coordinador** (WebSearch en modo extended y varias búsquedas por tendencia), se reintentó una búsqueda ("Vogue Runway spring 2027 menswear camp shirt resort trend"). El límite seguía agotado, así que no se pudo ampliar la cobertura. Solo se reetiquetó el archivo: "extracto de búsqueda (página no abierta)", crédito igual al medio, enlaces de producto como "enlace de resultado de búsqueda, no abierto", y se eliminaron detalles no respaldados por los extractos.
 - **Presupuesto de WebSearch agotado** tras 27 búsquedas (límite compartido de 200 por turno). Quedaron fuera:
   - **Vogue Runway** (galerías y reseñas SS27/FW26), **GQ**, **Esquire US**, **Mr Porter Journal** (solo se vio una guía japonesa), **Highsnobiety**, **BoF**.
   - **High street:** Zara, Mango, Arket, J.Crew, Todd Snyder, Abercrombie & Fitch, Buck Mason, Banana Republic, Percival (solo apareció su URL de AW) y Universal Works.

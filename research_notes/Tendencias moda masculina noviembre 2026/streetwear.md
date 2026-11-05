@@ -1,10 +1,10 @@
 # Streetwear masculino: notas de tendencias al 5 de noviembre de 2026
 
 > **NOTA DE VERIFICACIÓN (leer antes de usar).**
-> - **WebFetch quedó bloqueado** por la política de red de esta sesión. `hypebeast.com` y `hypebae.com` devolvieron `ENOTFOUND` (dominio fuera de los permitidos). Por indicación del entorno no se probaron más dominios. **No se abrió ninguna página.**
-> - **El presupuesto compartido de WebSearch (200 consultas por turno) se agotó** a mitad de la investigación. Quedaron sin buscar: gráficos y acabados (puff print, rhinestones, tipografía gótica), denim y jorts, pesos de fleece, Carhartt WIP, Aimé Leon Dore, Fear of God Essentials, Represent, Trapstar, Broken Planet, Cactus Plant Flea Market, Balenciaga y Givenchy SS27, y retail masivo.
-> - En consecuencia, **todo dato de este archivo viene de los resúmenes y fragmentos que devolvió WebSearch**, marcados como **[SNIPPET]**. No cumple el estándar pedido ("solo hechos leídos en una página abierta"). Úsese como mapa de pistas y valídese abriendo cada URL antes de tomar decisiones.
-> - **No se vio ninguna imagen ni ninguna ficha de producto.** No hay URLs directas de imagen, créditos ni verificaciones de producto. Las tablas 3 y 4 lo indican fila por fila.
+> - **WebFetch está bloqueado para todos los sitios** en este entorno (confirmado por el coordinador). `hypebeast.com` y `hypebae.com` devolvieron `ENOTFOUND`. **No se abrió ninguna página.**
+> - **El presupuesto compartido de WebSearch (200 consultas por turno) se agotó** a mitad de la investigación. Se volvió a intentar después de las reglas revisadas del coordinador y seguía agotado, así que no se pudieron añadir hallazgos. Quedaron sin buscar: gráficos y acabados (puff print, rhinestones, tipografía gótica), denim y jorts, pesos de fleece, Carhartt WIP, Aimé Leon Dore, Fear of God Essentials, Represent, Trapstar, Broken Planet, Cactus Plant Flea Market, Balenciaga y Givenchy SS27, y retail masivo.
+> - Según las reglas revisadas, **todo dato de este archivo es un "extracto de búsqueda (página no abierta)"**: viene del texto devuelto por WebSearch, con la URL del resultado, el medio y la fecha tal como aparecen. No se infiere más allá del extracto. La sección 5 es inferencia y está rotulada como tal. Valídese abriendo cada URL antes de tomar decisiones.
+> - **No se vio ninguna imagen ni ninguna ficha de producto.** En la tabla 3, la imagen figura "sin URL directa" y el crédito es el medio. En la tabla 4, cada enlace es un "enlace de resultado de búsqueda, no abierto". Todas las URLs se copiaron tal como las devolvió la búsqueda.
 > - Las fechas "según URL" salen de la ruta del enlace (p. ej. `/2026/10/` = octubre de 2026). El día exacto no se vio.
 
 ---
@@ -15,7 +15,7 @@
 - **Cliente:** hombre de 16 a 35 años que compra por identidad y pertenencia: escena musical, club, skate o barrio. Responde a la escasez (drops), al "quién lo hizo" (collabs) y a la historia detrás del gráfico.
 - **Diferencia con Urbano:** Urbano es el guardarropa smart-casual de ciudad: básicos de calidad, poco logo y reposición continua. Streetwear vive del calendario de lanzamientos semanales (el modelo Supreme/Palace), del gráfico como producto y de la colaboración como evento.
 - **Motores observados esta temporada:** fútbol y otros deportes como código gráfico, outerwear pesado de cuero o shearling, nostalgia y archivo (cine, cómic, fotografía, fe), y collabs con marcas de oficio o heritage (Timberland, Vanson, Meissen, Carhartt WIP).
-- En pasarela FW26, según The Impression, el estilo preppy "reemplazó la dominancia del streetwear" [SNIPPET]. El streetwear sigue fuerte en drops, pero comparte espacio con el sports-prep.
+- En pasarela FW26, según The Impression, el estilo preppy "reemplazó la dominancia del streetwear" [extracto de búsqueda (página no abierta)]. El streetwear sigue fuerte en drops, pero comparte espacio con el sports-prep.
 
 ---
 
@@ -24,7 +24,7 @@
 ### T1. Fútbol y gradas después del Mundial: la camiseta (y el tracksuit) como prenda protagonista
 **Estado:** NOVEDAD ESTA SEMANA (29 oct y 4 nov 2026) + VIGENTE TEMPORADA FW26
 
-**Evidencia OBSERVADA [SNIPPET]:**
+**Evidencia OBSERVADA [extracto de búsqueda (página no abierta)]:**
 - **Supreme FW26, Week 11 (droplist del jueves 29 oct 2026):** incluye *Supreme/Meissen Jacquard Soccer Jersey* (US$148) y *Supreme/Meissen Soccer Short* (US$148). Fuente: SupremeCommunity, "Week 11 Droplist October 29, 2026" (página de droplist, fecha 29 oct 2026).
 - **Corteiz x Nike, temporada de fiestas 2026 (reportado, NO oficial):**
   - Línea de ropa de 9 piezas: camisetas de fútbol de manga corta y larga, tracksuits de nailon y shorts, en negro, azul royal, plata y rojo.
@@ -56,7 +56,7 @@
 ### T2. Outerwear con peso: cuero, shearling, plumón, Cordura y puffers de color
 **Estado:** VIGENTE TEMPORADA FW26 (+ NOVEDAD ESTA SEMANA: Supreme/Vanson, 29 oct 2026)
 
-**Evidencia OBSERVADA [SNIPPET]:**
+**Evidencia OBSERVADA [extracto de búsqueda (página no abierta)]:**
 - **Stüssy Holiday '26 (lanzamiento: viernes 23 oct 2026, 10 AM, Chapter stores selectas y stussy.com; Hypebeast, oct 2026 según URL):** puffers verde brillante, chaquetas de cuero, bombers, abrigos (overcoats) y pantalón de camuflaje clásico, con "códigos clásicos de Stüssy". Fashionsnap tiene una página de la colección actualizada el 28 oct 2026.
 - **Palace Winter 2026 (Hypebeast, sep 2026 según URL):**
   - Lanzamiento semanal desde el 2 oct 2026 (UK, EU, US). La temporada la encabezan chaquetas de vuelo de shearling y una cápsula "2000 AD" de Judge Dredd.
@@ -83,7 +83,7 @@
 ### T3. Archivo, nostalgia y gráficos con narrativa: cine, cómic, fe, fotografía y slogans retro
 **Estado:** VIGENTE TEMPORADA FW26 + EMERGENTE SS27 (camiseta "I ♥")
 
-**Evidencia OBSERVADA [SNIPPET]:**
+**Evidencia OBSERVADA [extracto de búsqueda (página no abierta)]:**
 - **Supreme FW26 Week 1 (jueves 20 ago 2026):** abrió con una serie de camisetas para "el calor de agosto". Sole Retriever la titula "Darth Maul, Dios, and Dogs". La venta fue por app, web, tiendas y stockists, a las 11 AM EDT.
 - **Supreme Fall 2026 Tees:** lanzamiento global el 8 oct 2026 y en Japón y Asia el 10 oct (Hypebeast Italia, oct 2026).
 - **Supreme x Larry Clark:** lanzamiento global el 3 sep 2026. Designscene (ago 2026) lo publica, y Deciphered Media lo describe como homenaje al archivo *Tulsa*.
@@ -106,7 +106,7 @@
 ### T4. Sports-prep: híbrido de sastrería y streetwear
 **Estado:** VIGENTE TEMPORADA FW26 → EMERGENTE SS27
 
-**Evidencia OBSERVADA [SNIPPET]:**
+**Evidencia OBSERVADA [extracto de búsqueda (página no abierta)]:**
 - **The Impression, "The Fall 2026 Men's Season Overview" (fecha no vista; temporada mostrada en ene 2026):** las referencias preppy e Ivy League reemplazaron la dominancia del streetwear. Lideran el punto, el pantalón de pinzas y las texturas en capas. "El traje ha vuelto".
 - **Wanted (17 jun 2026, "Dressing with intent: the fall 2026 menswear trends"):** Ivy mezclado con athleisure: blazer sobre hoodie, polo por dentro del jean, camisa Oxford con chaqueta de tracksuit.
 - **Trendalytics, "Top 10 menswear runway trends FW26" (fecha no vista):** "Sports Prep" como tendencia de pasarela, con Polo Ralph Lauren y Willy Chavarria como ejemplos.
@@ -130,7 +130,7 @@
 ### T5. Surf, skate y playa: el verano 2027 en clave streetwear
 **Estado:** EMERGENTE SS27 (clave para clima cálido)
 
-**Evidencia OBSERVADA [SNIPPET]:**
+**Evidencia OBSERVADA [extracto de búsqueda (página no abierta)]:**
 - **Louis Vuitton Men SS27 (desfile en París, 23 jun 2026 según el resumen de búsqueda):**
   - Set de playa y surf. El arquetipo es el "Surfer Dandy". Pharrell partió de sus raíces en Virginia.
   - Prendas: sastrería relajada, punto multicolor, pantalones inspirados en boardshorts y tablas de surf con logo como accesorio.
@@ -152,7 +152,7 @@
 ### T6. Worldbuilding y collabs con oficio o heritage: objetos, botas, cuero, porcelana
 **Estado:** VIGENTE TEMPORADA FW26 + NOVEDAD ESTA SEMANA (Supreme Week 11, 29 oct 2026; guía Complex, 4 nov 2026)
 
-**Evidencia OBSERVADA [SNIPPET]:**
+**Evidencia OBSERVADA [extracto de búsqueda (página no abierta)]:**
 - **Highsnobiety, "Supreme Feels Like a Lifestyle Again" (FW26, fecha no vista):**
   - Supreme "se siente como una marca de estilo de vida otra vez".
   - Hizo un anuncio envolvente en el New York Post, eco de su acción de 2018.
@@ -196,7 +196,7 @@
 ### T7. Contrapunto "quiet": menos gráfico y más corte (señal débil y en conflicto)
 **Estado:** EMERGENTE SS27 (evidencia escasa; contradicha)
 
-**Evidencia OBSERVADA [SNIPPET]:**
+**Evidencia OBSERVADA [extracto de búsqueda (página no abierta)]:**
 - **Kiko Kostadinov SS27 (NowFashion, 27 jun 2026):**
   - Colección austera: proporciones de túnica, costuras de panel disciplinadas, monocromo total y volumen hacia abajo con pierna ancha.
   - Nota la **ausencia de bolsillos cargo exteriores, cordones y outerwear gráfico**, elementos que aparecían en temporadas anteriores. Solo hay esta fuente; no hubo reseña independiente.
@@ -216,7 +216,7 @@
 
 ---
 
-### 2A. Calendario: novedades del 29 oct al 5 nov 2026 (NOVEDAD ESTA SEMANA) [SNIPPET]
+### 2A. Calendario: novedades del 29 oct al 5 nov 2026 (NOVEDAD ESTA SEMANA) [extracto de búsqueda (página no abierta)]
 
 | Fecha | Qué | Fuente |
 |---|---|---|
@@ -237,7 +237,7 @@
 
 ### 2B. Marcas: quién empuja la conversación y quién se enfría
 
-| Marca | Señal OBSERVADA [SNIPPET] | Lectura |
+| Marca | Señal OBSERVADA [extracto de búsqueda (página no abierta)] | Lectura |
 |---|---|---|
 | Supreme | Highsnobiety: "lifestyle again", respuesta a "Supreme is Dead"; HNHH: "de las más fuertes en tiempos recientes"; drops semanales con Nike, Timberland, Vanson, Meissen y Larry Clark | Recuperando impulso (narrativa editorial, no ventas) |
 | Corteiz | Alianza con Nike en expansión: Shox R419 y ropa de fútbol para fiestas 2026; New Era (feb); Gabriel Moses (may) | Muy activa |
@@ -262,7 +262,7 @@
   - Q2 2026: Chanel mantuvo el n.º 1 y Massimo Dutti fue la marca que más subió (FashionUnited, 5 ago 2026).
   - Una URL de Fibre2Fashion menciona "Miu Miu tops the Lyst Index Q3"; probablemente corresponde a otro año. No verificado.
 
-### 2C. Cruce pasarela–streetwear (FW26 / SS27) [SNIPPET]
+### 2C. Cruce pasarela–streetwear (FW26 / SS27) [extracto de búsqueda (página no abierta)]
 - **Louis Vuitton (Pharrell), SS27:** surf, skate y "Surfer Dandy"; tablas con logo; pantalón boardshort; pre-colección utilitaria "Whatever the Weather" (ver T5 y T4).
 - **Martine Rose FW26:** Renacimiento + clubwear de los 90 (Hypebeast, ene 2026). **No se encontró reseña de SS27.**
 - **Wales Bonner SS27 "Sun Poem":** ver T5. Una réplica de Wikipedia dice que su primera colección para Hermès se muestra en enero de 2027, pero el fragmento estaba incompleto y se contradecía. No verificado.
@@ -311,31 +311,31 @@
 
 | Tendencia | Marca | Colección / temporada / drop | Look # | Qué muestra (según TEXTO; imagen NO vista) | URL de página | URL directa de imagen | Crédito |
 |---|---|---|---|---|---|---|---|
-| T1 | Supreme x Meissen | FW26 Week 11 (29 oct 2026) | n/d | Droplist con Jacquard Soccer Jersey y Soccer Short | https://www.supremecommunity.com/season/fall-winter2026/droplist/2026-10-29/ | sin URL directa | no visto |
-| T1 | Corteiz x Nike | Shox R419 "Game Royal" (fiestas 2026) | n/d | Primera mirada del colorway Game Royal, IQ9951-400 | https://sneakernews.com/2026/10/27/corteiz-nike-shox-r419-game-royal-iq9951-400/ | sin URL directa | no visto |
-| T1 | Corteiz x Nike | Shox R419 "Game Royal" | n/d | "First look", US$190 | https://www.yankodesign.com/2026/10/28/corteiz-x-nike-shox-r419-game-royal-first-look-releasing-late-2026-for-190/amp/ | sin URL directa | no visto |
-| T1 | Corteiz x Nike | Shox R419 "Metallic Silver" | n/d | Versión "fully chrome" | https://captaincreps.com/?p=162699 | sin URL directa | no visto |
-| T1 | Kith x NFL | Fall 2026 | n/d | Colección con Leon Shirt de velour y numeración en relieve | https://hypebeast.com/pt/2026/8/kith-fall-2026-collection-featuring-needles-nfl-collaborations-release-info | sin URL directa | no visto |
-| T2 | Stüssy | Holiday '26 (23 oct 2026) | n/d | Lookbook: puffers verdes, cuero, bombers, overcoats, pantalón camo | https://hypebeast.com/2026/10/stussy-holiday-2026-lookbook-collection-release-info | sin URL directa | no visto |
-| T2 | Stüssy | Holiday 2026 AW | n/d | Página de colección (actualizada el 28 oct 2026) | https://www.fashionsnap.com/collection/stussy/holiday/2026aw/ | sin URL directa | no visto |
-| T2 | Palace | Winter 2026 (colección completa) | n/d | "Every item": shearling, Judge Dredd y outerwear técnico | https://hypebeast.com/2026/9/palace-skateboards-winter-2026-full-collection-release-info | sin URL directa | no visto |
-| T2 | Corteiz | Quilted Exchange Bomber Black (CRTZ1558-001) | n/d | Foto de producto en un marketplace | https://www.goat.com/en-ae/apparel/corteiz-quilted-exchange-bomber-black-crtz1558-001 | sin URL directa | no visto |
-| T3 | Supreme | FW26 Week 1, camisetas (20 ago 2026) | n/d | Camisetas "Darth Maul, Dios, and Dogs" | https://www.soleretriever.com/news/articles/supreme-fall-winter-2026-week-1-t-shirt-collection | sin URL directa | no visto |
-| T3 | Supreme x Larry Clark | FW26 (3 sep 2026) | n/d | Collab de archivo fotográfico | https://www.designscene.net/2026/08/supreme-larry-clark-fall-winter-2026.html | sin URL directa | no visto |
-| T3 | Denim Tears | FW26, patrimonio de André Leon Talley | n/d | Presentación de la colección homenaje | https://hypebeast.com/2026/8/denim-tears-fw26-andre-leon-talley-estate-collaboration-collection-release-info | sin URL directa | no visto |
-| T3 | Martine Rose | FW26, desfile en París | n/d | Renacimiento + clubwear de los 90 | https://hypebeast.com/2026/1/martine-rose-fall-winter-2026-menswear-collection-paris-fashion-week-runway | sin URL directa | no visto |
-| T4 | Louis Vuitton | Pre-colección Men SS27 "Whatever the Weather" | n/d | Rainwear y sastrería utilitaria | https://hypebeast.com/2026/6/pharrell-williams-louis-vuitton-mens-ss27-pre-collection-release-info | sin URL directa | no visto |
-| T4 | Kith x Needles | Fall 2026 | n/d | Oficio japonés + Americana | https://dancewax.net/2026/08/26/kith-shares-fall-2026-collection-alongside-collaborations-with-nfl-and-needles/ | sin URL directa | no visto |
-| T4 | Varias | Lo mejor de PFW Men's SS27 | n/d | Resumen de Complex de la semana | https://www.complex.com/style/a/mike-destefano/best-of-paris-fashion-week-mens-spring-summer-2027 | sin URL directa | no visto |
-| T5 | Louis Vuitton | Men SS27, desfile | n/d | Surf/"Surfer Dandy", pantalón boardshort, tablas con logo | https://www.complex.com/style/a/aria-hughes/pharrell-louis-vuitton-spring-summer-2027-mens-show-review | sin URL directa | no visto |
-| T5 | Louis Vuitton | Men SS27, desfile | n/d | Reseña de pasarela | https://www.harpersbazaar.com.sg/fashion/runway/louis-vuitton-men-spring-summer-2027-review | sin URL directa | no visto |
-| T5 | Wales Bonner | SS27 "Sun Poem" | n/d | Página oficial de la colección (estudio de retrato) | https://walesbonner.com/pages/sun-poem-spring-summer-2027-collection | sin URL directa | no visto |
-| T5 | Wales Bonner | SS27 | n/d | Editorial con fotografía "cándida y difusa" | https://metalmagazine.eu/en/post/wales-bonner-ss-2027 | sin URL directa | no visto |
-| T6 | Supreme | FW26 (lifestyle, muebles) | n/d | Sofá escultórico y objetos | https://www.highsnobiety.com/p/supreme-fw26/ | sin URL directa | no visto |
-| T6 | Supreme | FW26 | n/d | Lookbook y objetos: transporte, hogar | https://culted.com/fashion/you-have-to-take-a-look-at-supremes-fall-winter-2026-collection/ | sin URL directa | no visto |
-| T6 | Stüssy x Denim Tears | FW26 (16 oct 2026) | n/d | Anuncio de la collab y outerwear co-firmado | https://hypebeast.com/2026/10/stussy-denim-tears-fw26-collaboration-announcement-release-info | sin URL directa | no visto |
-| T7 | Kiko Kostadinov | SS27, desfile en París | n/d | Túnicas, monocromo, pierna ancha | https://nowfashion.com/kiko-kostadinov-menswear-spring-summer-2027-paris | sin URL directa | no visto |
-| T7 | Kiko Kostadinov | SS27 | n/d | Galería de fotos | https://ww.fashionnetwork.com/galeries/photos/Kiko-Kostadinov,75807.html | sin URL directa | no visto |
+| T1 | Supreme x Meissen | FW26 Week 11 (29 oct 2026) | n/d | Droplist con Jacquard Soccer Jersey y Soccer Short | https://www.supremecommunity.com/season/fall-winter2026/droplist/2026-10-29/ | sin URL directa | SupremeCommunity (crédito = medio; imagen no vista) |
+| T1 | Corteiz x Nike | Shox R419 "Game Royal" (fiestas 2026) | n/d | Primera mirada del colorway Game Royal, IQ9951-400 | https://sneakernews.com/2026/10/27/corteiz-nike-shox-r419-game-royal-iq9951-400/ | sin URL directa | Sneaker News (crédito = medio; imagen no vista) |
+| T1 | Corteiz x Nike | Shox R419 "Game Royal" | n/d | "First look", US$190 | https://www.yankodesign.com/2026/10/28/corteiz-x-nike-shox-r419-game-royal-first-look-releasing-late-2026-for-190/amp/ | sin URL directa | Yanko Design (crédito = medio; imagen no vista) |
+| T1 | Corteiz x Nike | Shox R419 "Metallic Silver" | n/d | Versión "fully chrome" | https://captaincreps.com/?p=162699 | sin URL directa | Captain Creps (crédito = medio; imagen no vista) |
+| T1 | Kith x NFL | Fall 2026 | n/d | Colección con Leon Shirt de velour y numeración en relieve | https://hypebeast.com/pt/2026/8/kith-fall-2026-collection-featuring-needles-nfl-collaborations-release-info | sin URL directa | Hypebeast Brasil (crédito = medio; imagen no vista) |
+| T2 | Stüssy | Holiday '26 (23 oct 2026) | n/d | Lookbook: puffers verdes, cuero, bombers, overcoats, pantalón camo | https://hypebeast.com/2026/10/stussy-holiday-2026-lookbook-collection-release-info | sin URL directa | Hypebeast (crédito = medio; imagen no vista) |
+| T2 | Stüssy | Holiday 2026 AW | n/d | Página de colección (actualizada el 28 oct 2026) | https://www.fashionsnap.com/collection/stussy/holiday/2026aw/ | sin URL directa | Fashionsnap (crédito = medio; imagen no vista) |
+| T2 | Palace | Winter 2026 (colección completa) | n/d | "Every item": shearling, Judge Dredd y outerwear técnico | https://hypebeast.com/2026/9/palace-skateboards-winter-2026-full-collection-release-info | sin URL directa | Hypebeast (crédito = medio; imagen no vista) |
+| T2 | Corteiz | Quilted Exchange Bomber Black (CRTZ1558-001) | n/d | Foto de producto en un marketplace | https://www.goat.com/en-ae/apparel/corteiz-quilted-exchange-bomber-black-crtz1558-001 | sin URL directa | GOAT (crédito = medio; imagen no vista) |
+| T3 | Supreme | FW26 Week 1, camisetas (20 ago 2026) | n/d | Camisetas "Darth Maul, Dios, and Dogs" | https://www.soleretriever.com/news/articles/supreme-fall-winter-2026-week-1-t-shirt-collection | sin URL directa | Sole Retriever (crédito = medio; imagen no vista) |
+| T3 | Supreme x Larry Clark | FW26 (3 sep 2026) | n/d | Collab de archivo fotográfico | https://www.designscene.net/2026/08/supreme-larry-clark-fall-winter-2026.html | sin URL directa | Design Scene (crédito = medio; imagen no vista) |
+| T3 | Denim Tears | FW26, patrimonio de André Leon Talley | n/d | Presentación de la colección homenaje | https://hypebeast.com/2026/8/denim-tears-fw26-andre-leon-talley-estate-collaboration-collection-release-info | sin URL directa | Hypebeast (crédito = medio; imagen no vista) |
+| T3 | Martine Rose | FW26, desfile en París | n/d | Renacimiento + clubwear de los 90 | https://hypebeast.com/2026/1/martine-rose-fall-winter-2026-menswear-collection-paris-fashion-week-runway | sin URL directa | Hypebeast (crédito = medio; imagen no vista) |
+| T4 | Louis Vuitton | Pre-colección Men SS27 "Whatever the Weather" | n/d | Rainwear y sastrería utilitaria | https://hypebeast.com/2026/6/pharrell-williams-louis-vuitton-mens-ss27-pre-collection-release-info | sin URL directa | Hypebeast (crédito = medio; imagen no vista) |
+| T4 | Kith x Needles | Fall 2026 | n/d | Oficio japonés + Americana | https://dancewax.net/2026/08/26/kith-shares-fall-2026-collection-alongside-collaborations-with-nfl-and-needles/ | sin URL directa | Dancewax (crédito = medio; imagen no vista) |
+| T4 | Varias | Lo mejor de PFW Men's SS27 | n/d | Resumen de Complex de la semana | https://www.complex.com/style/a/mike-destefano/best-of-paris-fashion-week-mens-spring-summer-2027 | sin URL directa | Complex (crédito = medio; imagen no vista) |
+| T5 | Louis Vuitton | Men SS27, desfile | n/d | Surf/"Surfer Dandy", pantalón boardshort, tablas con logo | https://www.complex.com/style/a/aria-hughes/pharrell-louis-vuitton-spring-summer-2027-mens-show-review | sin URL directa | Complex (crédito = medio; imagen no vista) |
+| T5 | Louis Vuitton | Men SS27, desfile | n/d | Reseña de pasarela | https://www.harpersbazaar.com.sg/fashion/runway/louis-vuitton-men-spring-summer-2027-review | sin URL directa | Harper's Bazaar Singapore (crédito = medio; imagen no vista) |
+| T5 | Wales Bonner | SS27 "Sun Poem" | n/d | Página oficial de la colección (estudio de retrato) | https://walesbonner.com/pages/sun-poem-spring-summer-2027-collection | sin URL directa | Wales Bonner (sitio oficial) (crédito = medio; imagen no vista) |
+| T5 | Wales Bonner | SS27 | n/d | Editorial con fotografía "cándida y difusa" | https://metalmagazine.eu/en/post/wales-bonner-ss-2027 | sin URL directa | Metal Magazine (crédito = medio; imagen no vista) |
+| T6 | Supreme | FW26 (lifestyle, muebles) | n/d | Sofá escultórico y objetos | https://www.highsnobiety.com/p/supreme-fw26/ | sin URL directa | Highsnobiety (crédito = medio; imagen no vista) |
+| T6 | Supreme | FW26 | n/d | Lookbook y objetos: transporte, hogar | https://culted.com/fashion/you-have-to-take-a-look-at-supremes-fall-winter-2026-collection/ | sin URL directa | Culted (crédito = medio; imagen no vista) |
+| T6 | Stüssy x Denim Tears | FW26 (16 oct 2026) | n/d | Anuncio de la collab y outerwear co-firmado | https://hypebeast.com/2026/10/stussy-denim-tears-fw26-collaboration-announcement-release-info | sin URL directa | Hypebeast (crédito = medio; imagen no vista) |
+| T7 | Kiko Kostadinov | SS27, desfile en París | n/d | Túnicas, monocromo, pierna ancha | https://nowfashion.com/kiko-kostadinov-menswear-spring-summer-2027-paris | sin URL directa | NowFashion (crédito = medio; imagen no vista) |
+| T7 | Kiko Kostadinov | SS27 | n/d | Galería de fotos | https://ww.fashionnetwork.com/galeries/photos/Kiko-Kostadinov,75807.html | sin URL directa | FashionNetwork (crédito = medio; imagen no vista) |
 
 ---
 
@@ -345,30 +345,30 @@
 
 | Tendencia | Marca | Producto | Precio (según fuente) | URL | Estado de verificación y fecha |
 |---|---|---|---|---|---|
-| T1 | Supreme x Meissen | Supreme/Meissen Jacquard Soccer Jersey | US$148 | https://www.supremecommunity.com/season/fall-winter2026/droplist/2026-10-29/ (droplist; no es la ficha de producto) | no verificado (bloqueado), 5 nov 2026. Drop del 29 oct; stock desconocido, probablemente agotado |
-| T1 | Supreme x Meissen | Supreme/Meissen Soccer Short | US$148 | ídem | no verificado (bloqueado), 5 nov 2026 |
-| T1 | Corteiz x Nike | Shox R419 "Game Royal" (IQ9951-400) | US$190 reportado (otra fuente: US$180) | https://sneakernews.com/2026/10/27/corteiz-nike-shox-r419-game-royal-iq9951-400/ (nota; sin ficha de producto) | no verificado (bloqueado); lanzamiento no confirmado oficialmente |
-| T1 | Corteiz x Nike | Track jacket / track pants (tracksuit de nailon) | US$195 / US$155 (fuente única) | sin URL de producto; referencia: https://www.sneakerjagers.com/en/n/corteiz-x-nike-shox-r419-drops-this-autumn/8060 | no verificado; precios de una sola fuente |
-| T1 | Corteiz x Nike | Football jersey / shorts | US$110 / US$65 (fuente única) | ídem | no verificado |
-| T1 | KAWS x Nike | MLB jerseys | no visto | sin URL de producto; referencia: guía de regalos de Complex (4 nov 2026) https://www.complex.com/style/a/complexstaff3/streetwear-collectible-gifts-holiday-2026-complex | no verificado (bloqueado) |
-| T2 | Supreme x Vanson Leathers | Supreme/Vanson Leathers Cordura Down Jacket | US$798 | https://www.supremecommunity.com/season/fall-winter2026/droplist/2026-10-29/ | no verificado (bloqueado), 5 nov 2026 |
-| T2 | Corteiz | Quilted Exchange Bomber Black (CRTZ1558-001) | no visto | https://www.goat.com/en-ae/apparel/corteiz-quilted-exchange-bomber-black-crtz1558-001 (marketplace de reventa) | no verificado (bloqueado) |
-| T2 | Supreme x Vanson | Spider-Man Jacket | "al menos US$600 ahora", según Complex (probablemente reventa) | sin URL de producto; referencia: https://www.complex.com/style/a/mike-destefano/most-hyped-items-2026 | no verificado; agotado o reventa probable |
-| T6 | Supreme x Nike | Air Force 1 Low "Snow Camo" | US$124 | droplist de la Week 11 (arriba) | no verificado (bloqueado); drop del 29 oct |
-| T6 | Supreme x Timberland | Field Boot (Fall 2026) | no visto | sin URL de producto; referencia: https://hypebeast.com/2026/10/best-drops-october-week-4-supreme-palace-carhartt-wip | no verificado (bloqueado); drop del 22 oct |
-| T6 | Ice Cream x Alpha Industries | Hoodie reversible | no visto | referencia: guía de Complex (4 nov 2026), URL arriba | no verificado (bloqueado) |
-| T6 | Denim Tears x adidas | Superstar 82 (LN3808) / Stan Smith 80 (LN3810) | sin anunciar | referencia: https://sneakernews.com/2026/09/09/denim-tears-adidas-2026/ | no verificado; collab no confirmada oficialmente |
-| T6 | Nike x UNION | Dunk Low "Fatigue" | no visto | referencia: https://www.highsnobiety.com/l/drop-calendar/ | no verificado; fecha de lanzamiento listada: 6 nov 2026 |
-| T1/T4 | Kith x NFL | Leon Shirt de velour gamuzado (30 equipos) | no visto | referencia: https://hypebeast.com/pt/2026/8/kith-fall-2026-collection-featuring-needles-nfl-collaborations-release-info | no verificado (bloqueado) |
-| T2/T6 | Stüssy x Denim Tears | Cortavientos naranja (SS link + corona de algodón) | no visto | referencia: https://hypebeast.com/2026/10/stussy-denim-tears-fw26-collaboration-announcement-release-info | no verificado; drop del 16 oct |
-| Señal Y2K | Sp5der | OG Web Zip Up Hoodie SS26 Sky Blue | retail US$200; última venta US$259 (**reventa StockX**) | https://stockx.com/sp5der-og-web-zip-up-hoodie-ss26-sky-blue | no verificado (bloqueado); fecha de captura incierta |
-| Señal Y2K | Sp5der | Rhinestone Punk V2 Hoodie Black | no visto | https://stockx.com/sp5der-rhinestone-punk-v2-hoodie-black | no verificado (bloqueado). Confirma que existe un producto con rhinestones en el catálogo de reventa, nada más |
+| T1 | Supreme x Meissen | Supreme/Meissen Jacquard Soccer Jersey | US$148 | https://www.supremecommunity.com/season/fall-winter2026/droplist/2026-10-29/ (droplist; no es la ficha de producto) | enlace de resultado de búsqueda, no abierto; no verificado (bloqueado), 5 nov 2026. Drop del 29 oct; stock desconocido, probablemente agotado |
+| T1 | Supreme x Meissen | Supreme/Meissen Soccer Short | US$148 | ídem | enlace de resultado de búsqueda, no abierto; no verificado (bloqueado), 5 nov 2026 |
+| T1 | Corteiz x Nike | Shox R419 "Game Royal" (IQ9951-400) | US$190 reportado (otra fuente: US$180) | https://sneakernews.com/2026/10/27/corteiz-nike-shox-r419-game-royal-iq9951-400/ (nota; sin ficha de producto) | enlace de resultado de búsqueda, no abierto; no verificado (bloqueado); lanzamiento no confirmado oficialmente |
+| T1 | Corteiz x Nike | Track jacket / track pants (tracksuit de nailon) | US$195 / US$155 (fuente única) | sin URL de producto; referencia: https://www.sneakerjagers.com/en/n/corteiz-x-nike-shox-r419-drops-this-autumn/8060 | enlace de resultado de búsqueda, no abierto; no verificado; precios de una sola fuente |
+| T1 | Corteiz x Nike | Football jersey / shorts | US$110 / US$65 (fuente única) | ídem | enlace de resultado de búsqueda, no abierto; no verificado |
+| T1 | KAWS x Nike | MLB jerseys | no visto | sin URL de producto; referencia: guía de regalos de Complex (4 nov 2026) https://www.complex.com/style/a/complexstaff3/streetwear-collectible-gifts-holiday-2026-complex | enlace de resultado de búsqueda, no abierto; no verificado (bloqueado) |
+| T2 | Supreme x Vanson Leathers | Supreme/Vanson Leathers Cordura Down Jacket | US$798 | https://www.supremecommunity.com/season/fall-winter2026/droplist/2026-10-29/ | enlace de resultado de búsqueda, no abierto; no verificado (bloqueado), 5 nov 2026 |
+| T2 | Corteiz | Quilted Exchange Bomber Black (CRTZ1558-001) | no visto | https://www.goat.com/en-ae/apparel/corteiz-quilted-exchange-bomber-black-crtz1558-001 (marketplace de reventa) | enlace de resultado de búsqueda, no abierto; no verificado (bloqueado) |
+| T2 | Supreme x Vanson | Spider-Man Jacket | "al menos US$600 ahora", según Complex (probablemente reventa) | sin URL de producto; referencia: https://www.complex.com/style/a/mike-destefano/most-hyped-items-2026 | enlace de resultado de búsqueda, no abierto; no verificado; agotado o reventa probable |
+| T6 | Supreme x Nike | Air Force 1 Low "Snow Camo" | US$124 | droplist de la Week 11 (arriba) | enlace de resultado de búsqueda, no abierto; no verificado (bloqueado); drop del 29 oct |
+| T6 | Supreme x Timberland | Field Boot (Fall 2026) | no visto | sin URL de producto; referencia: https://hypebeast.com/2026/10/best-drops-october-week-4-supreme-palace-carhartt-wip | enlace de resultado de búsqueda, no abierto; no verificado (bloqueado); drop del 22 oct |
+| T6 | Ice Cream x Alpha Industries | Hoodie reversible | no visto | referencia: guía de Complex (4 nov 2026), URL arriba | enlace de resultado de búsqueda, no abierto; no verificado (bloqueado) |
+| T6 | Denim Tears x adidas | Superstar 82 (LN3808) / Stan Smith 80 (LN3810) | sin anunciar | referencia: https://sneakernews.com/2026/09/09/denim-tears-adidas-2026/ | enlace de resultado de búsqueda, no abierto; no verificado; collab no confirmada oficialmente |
+| T6 | Nike x UNION | Dunk Low "Fatigue" | no visto | referencia: https://www.highsnobiety.com/l/drop-calendar/ | enlace de resultado de búsqueda, no abierto; no verificado; fecha de lanzamiento listada: 6 nov 2026 |
+| T1/T4 | Kith x NFL | Leon Shirt de velour gamuzado (30 equipos) | no visto | referencia: https://hypebeast.com/pt/2026/8/kith-fall-2026-collection-featuring-needles-nfl-collaborations-release-info | enlace de resultado de búsqueda, no abierto; no verificado (bloqueado) |
+| T2/T6 | Stüssy x Denim Tears | Cortavientos naranja (SS link + corona de algodón) | no visto | referencia: https://hypebeast.com/2026/10/stussy-denim-tears-fw26-collaboration-announcement-release-info | enlace de resultado de búsqueda, no abierto; no verificado; drop del 16 oct |
+| Señal Y2K | Sp5der | OG Web Zip Up Hoodie SS26 Sky Blue | retail US$200; última venta US$259 (**reventa StockX**) | https://stockx.com/sp5der-og-web-zip-up-hoodie-ss26-sky-blue | enlace de resultado de búsqueda, no abierto; no verificado (bloqueado); fecha de captura incierta |
+| Señal Y2K | Sp5der | Rhinestone Punk V2 Hoodie Black | no visto | https://stockx.com/sp5der-rhinestone-punk-v2-hoodie-black | enlace de resultado de búsqueda, no abierto; no verificado (bloqueado). Confirma que existe un producto con rhinestones en el catálogo de reventa, nada más |
 
 ---
 
 ## 5. Implicaciones para diseño (INFERENCIA, no observado)
 
-> Todo este apartado es **lectura propia**, basada en las señales [SNIPPET] de arriba. Validar antes de comprometer compras de tela.
+> Todo este apartado es **lectura propia**, basada en las señales [extracto de búsqueda (página no abierta)] de arriba. Validar antes de comprometer compras de tela.
 
 ### Comercial (bajo riesgo, rotación probable)
 - **Set de fútbol de marca propia: camiseta + short a juego**, que repite el modelo Supreme/Meissen de jersey y short al mismo precio.
