@@ -1,9 +1,9 @@
 # Denim masculino: tendencias al 5 de noviembre de 2026 (FW26 en tienda, SS27 en pasarela)
 
-> **AVISO DE VERIFICACIÓN (leer primero).** En esta sesión **WebFetch quedó bloqueado por la política de red del entorno**: fashionunited.com, wwd.com, out.com y morningstar.com devolvieron "getaddrinfo ENOTFOUND" (host fuera de los dominios permitidos). Siguiendo la instrucción del propio error, no se probaron más hosts. Después, el **cupo compartido de WebSearch se agotó** (límite de 200 búsquedas por turno entre todos los agentes).
-> Consecuencia: **ninguna página se abrió**. Todo lo que sigue sale de los **resúmenes de resultados de WebSearch (snippets)**, que el brief marca como insuficientes para dar un hecho por verificado. Por eso cada dato lleva la etiqueta **[SNIPPET]**: es una pista con fuente y URL reales, pero hay que confirmarla abriendo la página.
-> **No hay imágenes verificadas, URLs directas de imagen, créditos fotográficos ni productos comprobados.** Para completar el brief hay que habilitar en la configuración de red del entorno, como mínimo: wwd.com, sourcingjournal.com, fashionunited.com, vogue.com, assets.vogue.com, out.com, levi.com, hypebeast.com, denimology.com y las webs de retailers.
-> Convenciones: OBSERVADO = lo que dijo o mostró una marca, un medio o una empresa, con su fuente. INFERENCIA = lectura propia, marcada como tal. Fecha de publicación: exacta solo si el snippet o el URL la muestran; si sale del patrón del URL se anota "fecha inferida del URL".
+> **AVISO DE VERIFICACIÓN (leer primero).** En este entorno **WebFetch está bloqueado para todos los sitios** (confirmado por el coordinador; aquí fallaron fashionunited.com, wwd.com, out.com y morningstar.com con "getaddrinfo ENOTFOUND"). Según las reglas revisadas del coordinador, los datos de este archivo se toman de los **extractos de resultados de WebSearch**. Cada uno va marcado **"extracto de búsqueda (página no abierta)"**, con URL, medio y fecha tal como aparecían en el resultado.
+> El **cupo compartido de WebSearch se agotó** (límite de 200 búsquedas por turno entre todos los agentes) antes de llegar la actualización del coordinador. Un reintento posterior también fue rechazado, así que **no se pudieron sumar búsquedas** de Vogue Runway, de productos ni más búsquedas por tendencia. Para ampliar hace falta un mensaje de seguimiento, que renueva el cupo, o subir CLAUDE_CODE_MAX_WEB_SEARCHES_PER_SESSION.
+> **No hay imágenes vistas, URLs directas de imagen ni productos abiertos.** Los enlaces de producto son "enlace de resultado de búsqueda, no abierto".
+> Convenciones: OBSERVADO = lo que dijo o mostró una marca, un medio o una empresa, según el extracto. INFERENCIA = lectura propia, siempre marcada y concentrada en las secciones 5 y 6. Fecha: la que muestra el resultado; si solo figura en el URL (p. ej. FashionUnited `/2026080873864`), se anota "fecha según el URL".
 
 ---
 
@@ -18,15 +18,15 @@ Denim cubre, para una marca masculina, el jean (fit, tiro, largo, bajo), la chaq
 ### T1. Vuelve el slim/skinny corto al tobillo (ruptura con el oversize)
 **Estado: EMERGENTE SS27** (pasarelas masculinas de junio de 2026)
 
-**OBSERVADO [SNIPPET]**
+**OBSERVADO (extracto de búsqueda, página no abierta)**
 - **Prada SS27 Men "Clarity"** (Miuccia Prada y Raf Simons, Milán, junio de 2026). Las reseñas describen jeans, chaquetas de jean y Canadian tuxedo como base de la colección; pantalón angosto cortado sobre el tobillo; lectura de "reset" frente al oversize. Fuentes: [V Magazine](https://vman.com/article/prada-slims-down-menswear-for-spring-summer-2027/) (fecha no visible); [tfashion.ai](https://tfashion.ai/blog/prada-spring-summer-2027-menswear-jeans-clarity) (fecha no visible); [Iconik Magazine](https://www.iconikmagazine.com/post/prada-springsummer-2027-menswear-show) (fecha no visible).
 - Denimology lo lee como regreso del skinny masculino, de tiro bajo y bajo corto. Stylelujo lo discute: según ese medio no es el skinny "pintado" de los 2000. Fuentes: [Denimology](https://denimology.com/prada-s-s-2027-the-return-of-the-skinny/); [Stylelujo](https://www.stylelujo.com/prada-says-the-oversized-menswear-era-is-over-why-spring-summer-2027-could-reset-the-american-mans-wardrobe/) (fechas no visibles). **Divergencia de fuentes.**
 - W Magazine: Prada "trajo de vuelta los skinny jeans", con un "desfile de pantalones pintados" después de la salida de Julia Nobis. Fuente: [W Magazine](https://www.wmagazine.com/fashion/mens-fashion-week-spring-summer-2027-best-looks-runway-photos) (el buscador lo marcaba con unos 4 meses de antigüedad, es decir, julio de 2026 aprox.).
 - **Dior SS27 (Jonathan Anderson):** jeans slim recubiertos, texturizados y de color, del rojo lavado al rosa chicle. **Celine SS27:** skinny azul tinta con cinturón de cuentas. **Acne Studios SS27:** skinny de energía 2000, en color (negro, rojo, verde) y de tiro bajo. Fuente: Sourcing Journal/WWD, ["Paris Fashion Week Men's Denim Trends: Shorts and Skinny Jeans Take the Spotlight"](https://wwd.com/sourcing-journal/sj-denim/paris-fashion-week-mens-trends-shorts-skinny-jeans-1239059656/) (julio de 2026 aprox., según la sindicación en Yahoo).
-- **Aaron Esh (Londres SS27)** actualizó el skinny masculino con paneles de cuero negro. Fuente: [WWD/SJ, "Spring/Summer 2027 Denim Trends From London Fashion Week"](https://wwd.com/sourcing-journal/sj-denim/spring-summer-2027-denim-trends-from-london-fashion-week-1239258336/) (fecha no visible; el ID del URL apunta a sept. de 2026, posible desfile co-ed o femenino).
+- **Aaron Esh (Londres SS27)** actualizó el skinny masculino con paneles de cuero negro. Fuente: [WWD/SJ, "Spring/Summer 2027 Denim Trends From London Fashion Week"](https://wwd.com/sourcing-journal/sj-denim/spring-summer-2027-denim-trends-from-london-fashion-week-1239258336/) (fecha no visible).
 - **Dsquared2** retomó los 2000 con lavados de alto contraste y fits skinny (pieza de SJ sobre Milán; temporada y género no confirmados). Fuente: [WWD/SJ Milán SS27](https://wwd.com/sourcing-journal/sj-denim/spring-summer-2027-denim-milan-fashion-week-glenn-martens-1239305836/).
 - WWD (retailers sobre Milán Men SS27) cita "slim denim" entre los imprescindibles, junto a tonos lavados por el sol, sastrería relajada y trajes de lino. Fuente: [WWD](https://wwd.com/business-news/retail/milan-mens-fashion-spring-2027-retailers-prada-giorgio-armani-ralph-lauren-1239024625/) (junio-julio de 2026 aprox.).
-- **Contradicción:** otra pieza de SJ sobre Milán dice que Prada "modernizó el fit con una pierna más holgada y largo cropped justo sobre el tobillo" ([WWD/SJ](https://wwd.com/sourcing-journal/sj-denim/spring-summer-2027-denim-milan-fashion-week-glenn-martens-1239305836/)). INFERENCIA: puede referirse a la colección femenina SS27 de Prada (sept. de 2026) y no a la masculina. No verificado.
+- **Contradicción:** otra pieza de SJ sobre Milán dice que Prada "modernizó el fit con una pierna más holgada y largo cropped justo sobre el tobillo" ([WWD/SJ](https://wwd.com/sourcing-journal/sj-denim/spring-summer-2027-denim-milan-fashion-week-glenn-martens-1239305836/)). Sin resolver (ver sección 6).
 
 **Especificaciones (según snippets)**
 - Siluetas y cortes: pierna angosta o slim; tiro bajo (Acne, Denimology sobre Prada); largo cropped sobre el tobillo, sin acumulación.
@@ -41,7 +41,7 @@ Denim cubre, para una marca masculina, el jean (fit, tiro, largo, bajo), la chaq
 ### T2. La recta y la relaxed sostienen la venta; el volumen (baggy, barrel, balloon) madura y el ultra-baggy pierde fuerza
 **Estado: VIGENTE TEMPORADA FW26** (en tienda). Sub-señal del ultra-baggy: **EN DECLIVE** (señales mixtas).
 
-**OBSERVADO [SNIPPET]**
+**OBSERVADO (extracto de búsqueda, página no abierta)**
 - **Dior Men FW26 (enero de 2026):** Jonathan Anderson abrió el desfile con tres jeans de pierna recta en tres lavados: azul stone-wash, blanco brillante y gris desgastado. **Juun J FW26:** jeans extra anchos por paneles laterales y cerrados en el tobillo, con efecto globo. FashionUnited añade que el índigo crudo (raw) sigue de la temporada anterior. Fuente: [FashionUnited, "Men's denim FW26 highlights: Dior Homme, Juun J, DSquared2 and more"](https://fashionunited.uk/news/fashion/mens-denim-fw26-highlights-dior-homme-juun-j-dsquared2-and-more/2026022886430) (28 feb. 2026).
 - **Canali FW26:** denim japonés sobre punto fino de merino, en fits relajados. La reseña es de Vogue (19 ene. 2026), pero **la URL no apareció en los resultados**; el dato llegó dentro de un resumen de búsqueda sobre FW26.
 - **Levi Strauss & Co., Q3 FY2026** (trimestre cerrado el 30 ago. 2026; resultados del 7 oct. 2026; **dato reportado por la empresa**):
@@ -71,8 +71,8 @@ Denim cubre, para una marca masculina, el jean (fit, tiro, largo, bajo), la chaq
 ### T3. Doble denim ("Canadian tuxedo") y sastrería en denim
 **Estado: VIGENTE TEMPORADA FW26 y EMERGENTE SS27** (se refuerza)
 
-**OBSERVADO [SNIPPET]**
-- FashionUnited llama al total-look de denim la declaración que define la temporada SS27 masculina, con chaqueta y jean pensados como conjunto en **Prada, Sacai y Saul Nash**, entre otros. Fuente: [FashionUnited, "SS27 Men's double denim trend: Prada, Sacai, Saul Nash and more"](https://fashionunited.com/news/fashion/ss27-mens-double-denim-trend-prada-sacai-saul-nash-and-more/2026080873864) (8 ago. 2026, fecha inferida del URL). **Página abierta sin éxito: host bloqueado.**
+**OBSERVADO (extracto de búsqueda, página no abierta)**
+- FashionUnited llama al total-look de denim la declaración que define la temporada SS27 masculina, con chaqueta y jean pensados como conjunto en **Prada, Sacai y Saul Nash**, entre otros. Fuente: [FashionUnited, "SS27 Men's double denim trend: Prada, Sacai, Saul Nash and more"](https://fashionunited.com/news/fashion/ss27-mens-double-denim-trend-prada-sacai-saul-nash-and-more/2026080873864) (8 ago. 2026, fecha según el URL). **Página abierta sin éxito: host bloqueado.**
 - **Milán Men SS27:** sastrería en denim y Canadian tuxedo en **Ralph Lauren, Giorgio Armani y Brunello Cucinelli**. Ralph Lauren tiró de archivo con chinos de patchwork índigo y una chaqueta de inspiración boro. Fuentes: [SJ, galería "Milan Fashion Week Men's: SS27 Denim"](https://wwd.com/sourcing-journal/sj-denim/gallery/milan-fashion-week-mens-spring-summer-2027-denim-1239045784/) y [sindicación en Yahoo](https://shopping.yahoo.com/style/clothing/articles/milan-fashion-week-men-spring-110039056.html) (julio de 2026).
 - **Prada SS27:** jeans, chaqueta de jean y Canadian tuxedo como base ([V Magazine](https://vman.com/article/prada-slims-down-menswear-for-spring-summer-2027/)).
 - **Acne Studios SS27** (Jonny Johansson, tema "oficina"): chinos de denim, conjuntos blancos a juego y pantalones híbridos de pinzas. La innovación está en el patronaje sastre-casual más que en el destroyed. Fuentes: [Denimology](https://denimology.com/?p=18891) (fecha no visible); [Rain Magazine](https://rain-mag.com/Acne-Studios-Menswear-Spring-Summer-2027-Makes-the-Office-Fun-Again) (30 ago. 2026).
@@ -92,7 +92,7 @@ Denim cubre, para una marca masculina, el jean (fit, tiro, largo, bajo), la chaq
 ### T4. Denim de color y tintes "lavados por el sol": amarillo mantequilla, rosa, rojo, verde, turquesa y blanco
 **Estado: EMERGENTE SS27**
 
-**OBSERVADO [SNIPPET]**
+**OBSERVADO (extracto de búsqueda, página no abierta)**
 - **Prada SS27:** denim en berry, rosa, marrón, blanco, amarillo y turquesa más que en azul clásico ([tfashion.ai](https://tfashion.ai/blog/prada-spring-summer-2027-menswear-jeans-clarity); [Iconik](https://www.iconikmagazine.com/post/prada-springsummer-2027-menswear-show)). Look completo de denim amarillo ([Out](https://www.out.com/fashion/menswear-trends-spring-summer-2027), fecha no visible; página no abierta: host bloqueado). Look de apertura en denim blanco slim con chaqueta corta boxy ([Fashion Times](https://www.fashiontimes.com/prada-spring-2027-menswear-blurred-lines-olivia-wilde-wore-proof-14650)).
 - **Dior SS27 (París, junio de 2026):**
   - Jeans de la "era Slimane" suavizados a amarillo mantequilla pálido, con abrigo azul ([Behind the Blinds](https://www.behindtheblinds.be/btb-show-report/dior-men-ss27)).
@@ -100,7 +100,7 @@ Denim cubre, para una marca masculina, el jean (fit, tiro, largo, bajo), la chaq
   - Denim amarillo desvaído ([Out](https://www.out.com/fashion/menswear-trends-spring-summer-2027)).
   - Shorts de tinte amarillo antiguo ([SJ](https://wwd.com/sourcing-journal/sj-denim/paris-fashion-week-mens-trends-shorts-skinny-jeans-1239059656/)).
   - **Las fuentes no coinciden en el color exacto de los shorts (amarillo o rosa).**
-- **Acne SS27:** negro, rojo y verde. **Auralee SS27:** índigo con lavados aqua ([búsqueda sobre SJ París](https://wwd.com/sourcing-journal/sj-denim/spring-summer-2027-denim-trends-paris-fashion-week-1239317968/); el ID del URL apunta a sept.-oct. de 2026, posible semana femenina o co-ed).
+- **Acne SS27:** negro, rojo y verde. **Auralee SS27:** índigo con lavados aqua ([búsqueda sobre SJ París](https://wwd.com/sourcing-journal/sj-denim/spring-summer-2027-denim-trends-paris-fashion-week-1239317968/); fecha no visible).
 - WWD (retailers de Milán SS27) cita "tonos lavados por el sol" ([WWD](https://wwd.com/business-news/retail/milan-mens-fashion-spring-2027-retailers-prada-giorgio-armani-ralph-lauren-1239024625/)).
 - Antecedente de ferias (2025, solo contexto): en las ferias europeas de denim hubo gris importante, pasteles blanqueados y tonos vintage ricos (resumen de un informe de Textiles Intelligence; [marketresearch.com](https://marketresearch.com/Textiles-Intelligence-v2646/Survey-European-denim-fairs-spring-36482047)).
 
@@ -117,20 +117,20 @@ Denim cubre, para una marca masculina, el jean (fit, tiro, largo, bajo), la chaq
 ### T5. Shorts de denim: cut-off deshilachado y bermuda (con extremos micro)
 **Estado: EMERGENTE SS27**
 
-**OBSERVADO [SNIPPET]**
+**OBSERVADO (extracto de búsqueda, página no abierta)**
 - SJ (París Men SS27) tituló "Shorts and Skinny Jeans Take the Spotlight":
   - Dior: shorts de jean cortados y deshilachados con tinte amarillento antiguo.
   - Willy Chavarria: cut-offs, algunos con el bóxer a la vista.
   - Egonlab y Acne Studios también mostraron shorts de jean.
   - Fuente: [WWD/SJ](https://wwd.com/sourcing-journal/sj-denim/paris-fashion-week-mens-trends-shorts-skinny-jeans-1239059656/) (julio de 2026 aprox.).
 - FACES: los diseñadores "vuelven a las tijeras" y convierten jeans en bermudas de bajo deshilachado ([FACES Trend Report SS27](https://facesmag.com/fashion-en/faces-trend-report-the-top-13-menswear-trends-for-spring-summer-2027/), fecha no visible).
-- **Diesel SS27 (Milán):** micro shorts de denim ([SJ Milán](https://wwd.com/sourcing-journal/sj-denim/spring-summer-2027-denim-milan-fashion-week-glenn-martens-1239305836/); temporada y género no confirmados; el ID apunta a sept. de 2026). T-Fashion calcula que el denim ocupó el 39% de las 28 salidas de Diesel ([tfashion.ai](https://tfashion.ai/runway/ss27/menswear/designers/diesel); **es un conteo de looks de pasarela, no ventas**).
+- **Diesel SS27 (Milán):** micro shorts de denim ([SJ Milán](https://wwd.com/sourcing-journal/sj-denim/spring-summer-2027-denim-milan-fashion-week-glenn-martens-1239305836/); fecha no visible; el extracto no precisa si es desfile masculino o co-ed). T-Fashion calcula que el denim ocupó el 39% de las 28 salidas de Diesel ([tfashion.ai](https://tfashion.ai/runway/ss27/menswear/designers/diesel); **es un conteo de looks de pasarela, no ventas**).
 - **Contexto 2025-2026 (consumo y estilo, no pasarela):** el jort de hombre se alarga hasta la rodilla o por debajo, con baggy y bermuda entre las tendencias de 2026 ([Cinapse](https://cinapse.co/?p=4170), [Lifestyle Asia](https://lifestyleasia-onemega.com/style/denim-jorts-make-a-comeback-2026/); fechas no visibles). ASOS ofrece largos "standard", "mid" y "long" ([ASOS](https://www.asos.com/us/men/shorts/denim-shorts/cat/pgecategory.aspx?cid=13138)). Un periódico estudiantil (6 abr. 2026) lo define como divisivo, entre "dad-core" y vintage chic ([whstheshield.com](https://whstheshield.com/2026/04/06/jazzy-jorts/)).
 - En el street style de París Men SS27, la mayoría llevaba jeans largos, no shorts (SJ, misma fuente).
 
 **Especificaciones (según snippets)**
 - Siluetas y cortes: bermuda a la rodilla o bajo la rodilla y ancha (consumo); cut-off irregular (pasarela); micro short (Diesel, punta extrema).
-- Largo: de micro a debajo de la rodilla. INFERENCIA: el centro comercial está en rodilla y bermuda.
+- Largo: de micro (Diesel) a debajo de la rodilla (contexto de consumo).
 - Telas: sin datos.
 - Lavados y acabados: deshilachado y cortado a mano; tinte amarillento antiguo (Dior).
 - Colores: amarillo antiguo; rosa (Dior, según Harper's Bazaar SG).
@@ -141,7 +141,7 @@ Denim cubre, para una marca masculina, el jean (fit, tiro, largo, bajo), la chaq
 ### T6. Lavados y acabados: índigo oscuro o crudo, recubiertos con efecto cuero, destroyed y western
 **Estado: VIGENTE TEMPORADA FW26**, con continuidad en SS27
 
-**OBSERVADO [SNIPPET]**
+**OBSERVADO (extracto de búsqueda, página no abierta)**
 - **FW26:**
   - El índigo crudo ("raw indigo, con sensación auténtica") sigue de la temporada anterior ([FashionUnited, 28 feb. 2026](https://fashionunited.uk/news/fashion/mens-denim-fw26-highlights-dior-homme-juun-j-dsquared2-and-more/2026022886430)).
   - En Isabel Marant, el azul índigo encabeza la temporada, en capas de denim y tejidos lavados ([Numéro Netherlands](https://www.numeronetherlands.com/fashion/paris-fashion-week-menswear-fallwinter-2026-day-2), ene. 2026).
@@ -167,8 +167,8 @@ Denim cubre, para una marca masculina, el jean (fit, tiro, largo, bajo), la chaq
 ### T7. Más allá del jean: chore coat y workwear, chaqueta corta tipo camisa, camisa de denim
 **Estado: VIGENTE TEMPORADA FW26** (centenario del chore coat de Lee en tienda), con apoyo en pasarela **SS27**
 
-**OBSERVADO [SNIPPET]**
-- **Lee:** su chore coat cumple 100 años (nació en 1925 para trabajo de campo y ferrocarril) y la marca lo reedita en otoño de 2026. Habla Sedgwick Cole Jr., Global Head of Design ([FashionUnited, 21 oct. 2026](https://fashionunited.uk/news/business/sedgwick-cole-jr-on-how-lees-chore-coat-outlasted-a-century-of-trends/2026102190945), fecha inferida del URL; [edición alemana, 22 oct. 2026](https://fashionunited.de/nachrichten/business/100-jahre-chore-coat-wie-lees-arbeitsjacke-allen-trends-trotzte/2026102269040)). Gear Patrol destacó un **91-J "100-Year Anniversary"** forrado y premium ([Gear Patrol, 5 oct. 2026](https://www.gearpatrol.com/briefings/today-in-gear/today-in-gear-october-5-2026/)). SJ publicó "Lee Celebrates 100 Years of Its Iconic Chore Coat" el 26 oct. 2026 (titular visto en un listado; URL no disponible).
+**OBSERVADO (extracto de búsqueda, página no abierta)**
+- **Lee:** su chore coat cumple 100 años (nació en 1925 para trabajo de campo y ferrocarril) y la marca lo reedita en otoño de 2026. Habla Sedgwick Cole Jr., Global Head of Design ([FashionUnited, 21 oct. 2026](https://fashionunited.uk/news/business/sedgwick-cole-jr-on-how-lees-chore-coat-outlasted-a-century-of-trends/2026102190945), fecha según el URL; [edición alemana, 22 oct. 2026](https://fashionunited.de/nachrichten/business/100-jahre-chore-coat-wie-lees-arbeitsjacke-allen-trends-trotzte/2026102269040)). Gear Patrol destacó un **91-J "100-Year Anniversary"** forrado y premium ([Gear Patrol, 5 oct. 2026](https://www.gearpatrol.com/briefings/today-in-gear/today-in-gear-october-5-2026/)). SJ publicó "Lee Celebrates 100 Years of Its Iconic Chore Coat" el 26 oct. 2026 (titular visto en un listado; URL no disponible).
 - **Prada SS27:** chaquetas de jean cortas, usadas casi como camisa y no como abrigo ([Unnamed Project](https://www.unnamedproject.com/prada-ss-27-mens/)).
 - **Dior SS27:** camisas de denim slim y desgastadas ([resumen sobre SJ París](https://wwd.com/sourcing-journal/sj-denim/spring-summer-2027-denim-trends-paris-fashion-week-1239317968/)).
 - **Ralph Lauren SS27:** chaqueta de inspiración boro ([SJ Milán](https://wwd.com/sourcing-journal/sj-denim/gallery/milan-fashion-week-mens-spring-summer-2027-denim-1239045784/)).
@@ -195,7 +195,7 @@ Denim cubre, para una marca masculina, el jean (fit, tiro, largo, bajo), la chaq
 - **Próximo (fuera de la ventana):** Denim Première Vision Milán, 25-26 nov. 2026, en Superstudio Più ([denim.premierevision.com](https://denim.premierevision.com/en/)).
 
 ### 2.9 Nota transversal de telas: ferias e hilanderías 2026 (relevante para el calor)
-- **Kingpins Amsterdam, 14-15 oct. 2026 (SugarFactory)** [SNIPPET]:
+- **Kingpins Amsterdam, 14-15 oct. 2026 (SugarFactory)** (extracto de búsqueda, página no abierta):
   - Lenzing y Kaihara lanzaron la colección **REMOD**. La red de hilanderías de **TENCEL Lyocell HV100** pasó de 17 hilanderías en 5 países (oct. 2025) a 37 (abr. 2026) y a casi 50 en 13 países (oct. 2026).
   - LYCRA mostró stretch con insumos reciclados y renovables y la cápsula **Naturalls** (Avalo, LYCRA, Neela, Labor Made, Soko).
   - Naveena presentó **Flex-Ease**, stretch con buena recuperación y amplio rango de talles, y **Glaze**.
@@ -220,36 +220,36 @@ Denim cubre, para una marca masculina, el jean (fit, tiro, largo, bajo), la chaq
 
 ## 3. Referencias visuales
 
-**Estado: 0 imágenes verificadas.** WebFetch estaba bloqueado, así que no se vio ninguna imagen ni se pudo leer ningún `src` ni crédito. La tabla lista **candidatas**: looks descritos en el **texto** de reseñas (snippets), con la URL de la página donde deberían estar. **"Qué muestra" describe el look según el texto de la reseña, no una imagen vista.** El número de look solo figura cuando el texto lo indica (por ejemplo, "abrió el desfile"); en los demás casos va "n/d". Antes de usar cualquier fila hay que abrir la página, confirmar la imagen y copiar su URL y el crédito exactos.
+**Estado: 0 imágenes vistas.** Con WebFetch bloqueado no se abrió ninguna galería ni se leyó ningún `src` ni crédito. Siguiendo las reglas del coordinador, cada fila indica la **página (artículo o reseña) donde aparece el look**: marca, temporada, número de look solo si el extracto lo da, y **lo que el extracto dice que muestra**. Las columnas fijas son "sin URL directa" y, como crédito, el medio. **No se describe ninguna foto.** Faltan las páginas de colección de Vogue Runway: no salieron en los resultados y no quedó cupo para buscarlas. 26 filas, al menos 3 por tendencia.
 
-| Tendencia | Marca | Colección/temporada | Look # | Qué muestra (según texto, no imagen) | URL de página | URL directa de imagen | Crédito publicado |
+| Tendencia | Marca | Colección/temporada | Look # | Qué dice el extracto que muestra | URL de página | URL directa de imagen | Crédito publicado |
 |---|---|---|---|---|---|---|---|
-| T1/T4 | Prada | SS27 Men "Clarity" | 1 (look de apertura, según Fashion Times) | Denim blanco slim con chaqueta corta boxy | https://www.fashiontimes.com/prada-spring-2027-menswear-blurred-lines-olivia-wilde-wore-proof-14650 | sin URL directa | no visto |
-| T1 | Prada | SS27 Men | n/d | Pantalón angosto cropped sobre el tobillo | https://tfashion.ai/blog/prada-spring-summer-2027-menswear-jeans-clarity | sin URL directa | no visto |
-| T1 | Celine | SS27 Men | n/d | Skinny azul tinta con cinturón de cuentas | https://wwd.com/sourcing-journal/sj-denim/paris-fashion-week-mens-trends-shorts-skinny-jeans-1239059656/ | sin URL directa | no visto |
-| T1/T4 | Acne Studios | SS27 Men | n/d | Skinny de tiro bajo en negro, rojo o verde | https://wwd.com/sourcing-journal/sj-denim/paris-fashion-week-mens-trends-shorts-skinny-jeans-1239059656/ | sin URL directa | no visto |
-| T1/T4 | Dior | SS27 Men | n/d | Slim recubierto y de color, del rojo lavado al rosa chicle | https://wwd.com/sourcing-journal/sj-denim/paris-fashion-week-mens-trends-shorts-skinny-jeans-1239059656/ | sin URL directa | no visto |
-| T1 | Aaron Esh | SS27 (Londres) | n/d | Skinny con paneles de cuero negro | https://wwd.com/sourcing-journal/sj-denim/spring-summer-2027-denim-trends-from-london-fashion-week-1239258336/ | sin URL directa | no visto |
-| T2 | Dior | FW26 Men | 1-3 (abrió con tres jeans rectos, según FashionUnited) | Rectas en stone-wash azul, blanco brillante y gris desgastado | https://fashionunited.uk/news/fashion/mens-denim-fw26-highlights-dior-homme-juun-j-dsquared2-and-more/2026022886430 | sin URL directa | no visto |
-| T2 | Juun J | FW26 Men | n/d | Extra ancho con paneles laterales y efecto globo en el tobillo | https://fashionunited.uk/news/fashion/mens-denim-fw26-highlights-dior-homme-juun-j-dsquared2-and-more/2026022886430 | sin URL directa | no visto |
-| T3 | DSquared2 | FW26 Men | n/d | Traje de denim con lentejuelas transparentes | https://fashionunited.uk/news/fashion/mens-denim-fw26-highlights-dior-homme-juun-j-dsquared2-and-more/2026022886430 | sin URL directa | no visto |
-| T3 | Ralph Lauren / Giorgio Armani / Brunello Cucinelli | SS27 Men (Milán) | n/d | Sastrería en denim y Canadian tuxedo | https://wwd.com/sourcing-journal/sj-denim/gallery/milan-fashion-week-mens-spring-summer-2027-denim-1239045784/ | sin URL directa | no visto |
-| T3 | Prada / Sacai / Saul Nash | SS27 Men | n/d | Doble denim (chaqueta y jean como conjunto) | https://fashionunited.com/news/fashion/ss27-mens-double-denim-trend-prada-sacai-saul-nash-and-more/2026080873864 | sin URL directa | no visto |
-| T3 | Acne Studios | SS27 Men | n/d | Chino de denim, conjunto blanco a juego, pantalón de pinzas híbrido | https://denimology.com/?p=18891 | sin URL directa | no visto |
-| T3 | Sacai | FW26 Men | n/d | Total-look de denim | https://pausemag.co.uk/?p=595645 | sin URL directa | no visto |
-| T4 | Prada | SS27 Men | n/d | Look completo de denim amarillo | https://www.out.com/fashion/menswear-trends-spring-summer-2027 | sin URL directa | no visto |
-| T4 | Dior | SS27 Men | n/d | Jean "era Slimane" amarillo mantequilla con abrigo azul | https://www.behindtheblinds.be/btb-show-report/dior-men-ss27 | sin URL directa | no visto |
-| T4/T5 | Dior | SS27 Men | n/d | Abrigo sastre sobre short de denim rosa | https://www.harpersbazaar.com.sg/fashion/runway/dior-men-spring-summer-2027-review | sin URL directa | no visto |
-| T5 | Dior | SS27 Men | n/d | Short de jean cortado y deshilachado con tinte amarillo antiguo | https://wwd.com/sourcing-journal/sj-denim/paris-fashion-week-mens-trends-shorts-skinny-jeans-1239059656/ | sin URL directa | no visto |
-| T5 | Willy Chavarria | SS27 Men | n/d | Cut-off con bóxer visible | https://wwd.com/sourcing-journal/sj-denim/paris-fashion-week-mens-trends-shorts-skinny-jeans-1239059656/ | sin URL directa | no visto |
-| T5 | Diesel | SS27 (Milán; género por confirmar) | n/d | Micro short de denim | https://wwd.com/sourcing-journal/sj-denim/spring-summer-2027-denim-milan-fashion-week-glenn-martens-1239305836/ | sin URL directa | no visto |
-| T6 | Diesel | SS27 (Milán; género por confirmar) | n/d | Denim recubierto con láser efecto cuero; bootcut con inserto en el tobillo | https://wwd.com/sourcing-journal/sj-denim/spring-summer-2027-denim-milan-fashion-week-glenn-martens-1239305836/ | sin URL directa | no visto |
-| T6 | Acne Studios | FW26 | n/d | Lavados envejecidos y efecto de ilusión óptica | https://tfashion.ai/runway/fw26/menswear/fabrics | sin URL directa | no visto |
-| T6/T3 | Ralph Lauren | SS27 Men | n/d | Chino de patchwork índigo | https://wwd.com/sourcing-journal/sj-denim/gallery/milan-fashion-week-mens-spring-summer-2027-denim-1239045784/ | sin URL directa | no visto |
-| T7 | Ralph Lauren | SS27 Men | n/d | Chaqueta de inspiración boro | https://wwd.com/sourcing-journal/sj-denim/gallery/milan-fashion-week-mens-spring-summer-2027-denim-1239045784/ | sin URL directa | no visto |
-| T7 | Prada | SS27 Men | n/d | Chaqueta de jean corta usada como camisa | https://www.unnamedproject.com/prada-ss-27-mens/ | sin URL directa | no visto |
-| T7 | Dior | SS27 Men | n/d | Camisa de denim slim y desgastada | https://wwd.com/sourcing-journal/sj-denim/spring-summer-2027-denim-trends-paris-fashion-week-1239317968/ | sin URL directa | no visto |
-| T7 | Lee | 91-J "100-Year Anniversary" (FW26) | producto | Chore coat forrado y premium (reedición) | https://www.gearpatrol.com/briefings/today-in-gear/today-in-gear-october-5-2026/ | sin URL directa | no visto |
+| T1/T4 | Prada | SS27 Men "Clarity" | 1 (look de apertura, según Fashion Times) | Denim blanco slim con chaqueta corta boxy | https://www.fashiontimes.com/prada-spring-2027-menswear-blurred-lines-olivia-wilde-wore-proof-14650 | sin URL directa | Medio: Fashion Times (foto y crédito no vistos) |
+| T1 | Prada | SS27 Men | n/d | Pantalón angosto cropped sobre el tobillo | https://tfashion.ai/blog/prada-spring-summer-2027-menswear-jeans-clarity | sin URL directa | Medio: T-Fashion (foto y crédito no vistos) |
+| T1 | Celine | SS27 Men | n/d | Skinny azul tinta con cinturón de cuentas | https://wwd.com/sourcing-journal/sj-denim/paris-fashion-week-mens-trends-shorts-skinny-jeans-1239059656/ | sin URL directa | Medio: Sourcing Journal / WWD (foto y crédito no vistos) |
+| T1/T4 | Acne Studios | SS27 Men | n/d | Skinny de tiro bajo en negro, rojo o verde | https://wwd.com/sourcing-journal/sj-denim/paris-fashion-week-mens-trends-shorts-skinny-jeans-1239059656/ | sin URL directa | Medio: Sourcing Journal / WWD (foto y crédito no vistos) |
+| T1/T4 | Dior | SS27 Men | n/d | Slim recubierto y de color, del rojo lavado al rosa chicle | https://wwd.com/sourcing-journal/sj-denim/paris-fashion-week-mens-trends-shorts-skinny-jeans-1239059656/ | sin URL directa | Medio: Sourcing Journal / WWD (foto y crédito no vistos) |
+| T1 | Aaron Esh | SS27 (Londres) | n/d | Skinny con paneles de cuero negro | https://wwd.com/sourcing-journal/sj-denim/spring-summer-2027-denim-trends-from-london-fashion-week-1239258336/ | sin URL directa | Medio: Sourcing Journal / WWD (foto y crédito no vistos) |
+| T2 | Dior | FW26 Men | 1-3 (abrió con tres jeans rectos, según FashionUnited) | Rectas en stone-wash azul, blanco brillante y gris desgastado | https://fashionunited.uk/news/fashion/mens-denim-fw26-highlights-dior-homme-juun-j-dsquared2-and-more/2026022886430 | sin URL directa | Medio: FashionUnited (foto y crédito no vistos) |
+| T2 | Juun J | FW26 Men | n/d | Extra ancho con paneles laterales y efecto globo en el tobillo | https://fashionunited.uk/news/fashion/mens-denim-fw26-highlights-dior-homme-juun-j-dsquared2-and-more/2026022886430 | sin URL directa | Medio: FashionUnited (foto y crédito no vistos) |
+| T3 | DSquared2 | FW26 Men | n/d | Traje de denim con lentejuelas transparentes | https://fashionunited.uk/news/fashion/mens-denim-fw26-highlights-dior-homme-juun-j-dsquared2-and-more/2026022886430 | sin URL directa | Medio: FashionUnited (foto y crédito no vistos) |
+| T3 | Ralph Lauren / Giorgio Armani / Brunello Cucinelli | SS27 Men (Milán) | n/d | Sastrería en denim y Canadian tuxedo | https://wwd.com/sourcing-journal/sj-denim/gallery/milan-fashion-week-mens-spring-summer-2027-denim-1239045784/ | sin URL directa | Medio: Sourcing Journal / WWD (foto y crédito no vistos) |
+| T3 | Prada / Sacai / Saul Nash | SS27 Men | n/d | Doble denim (chaqueta y jean como conjunto) | https://fashionunited.com/news/fashion/ss27-mens-double-denim-trend-prada-sacai-saul-nash-and-more/2026080873864 | sin URL directa | Medio: FashionUnited (foto y crédito no vistos) |
+| T3 | Acne Studios | SS27 Men | n/d | Chino de denim, conjunto blanco a juego, pantalón de pinzas híbrido | https://denimology.com/?p=18891 | sin URL directa | Medio: Denimology (foto y crédito no vistos) |
+| T3 | Sacai | FW26 Men | n/d | Total-look de denim | https://pausemag.co.uk/?p=595645 | sin URL directa | Medio: PAUSE (foto y crédito no vistos) |
+| T4 | Prada | SS27 Men | n/d | Look completo de denim amarillo | https://www.out.com/fashion/menswear-trends-spring-summer-2027 | sin URL directa | Medio: Out (foto y crédito no vistos) |
+| T4 | Dior | SS27 Men | n/d | Jean "era Slimane" amarillo mantequilla con abrigo azul | https://www.behindtheblinds.be/btb-show-report/dior-men-ss27 | sin URL directa | Medio: Behind the Blinds (foto y crédito no vistos) |
+| T4/T5 | Dior | SS27 Men | n/d | Abrigo sastre sobre short de denim rosa | https://www.harpersbazaar.com.sg/fashion/runway/dior-men-spring-summer-2027-review | sin URL directa | Medio: Harper's Bazaar Singapore (foto y crédito no vistos) |
+| T5 | Dior | SS27 Men | n/d | Short de jean cortado y deshilachado con tinte amarillo antiguo | https://wwd.com/sourcing-journal/sj-denim/paris-fashion-week-mens-trends-shorts-skinny-jeans-1239059656/ | sin URL directa | Medio: Sourcing Journal / WWD (foto y crédito no vistos) |
+| T5 | Willy Chavarria | SS27 Men | n/d | Cut-off con bóxer visible | https://wwd.com/sourcing-journal/sj-denim/paris-fashion-week-mens-trends-shorts-skinny-jeans-1239059656/ | sin URL directa | Medio: Sourcing Journal / WWD (foto y crédito no vistos) |
+| T5 | Diesel | SS27 (Milán; género por confirmar) | n/d | Micro short de denim | https://wwd.com/sourcing-journal/sj-denim/spring-summer-2027-denim-milan-fashion-week-glenn-martens-1239305836/ | sin URL directa | Medio: Sourcing Journal / WWD (foto y crédito no vistos) |
+| T6 | Diesel | SS27 (Milán; género por confirmar) | n/d | Denim recubierto con láser efecto cuero; bootcut con inserto en el tobillo | https://wwd.com/sourcing-journal/sj-denim/spring-summer-2027-denim-milan-fashion-week-glenn-martens-1239305836/ | sin URL directa | Medio: Sourcing Journal / WWD (foto y crédito no vistos) |
+| T6 | Acne Studios | FW26 | n/d | Lavados envejecidos y efecto de ilusión óptica | https://tfashion.ai/runway/fw26/menswear/fabrics | sin URL directa | Medio: T-Fashion (foto y crédito no vistos) |
+| T6/T3 | Ralph Lauren | SS27 Men | n/d | Chino de patchwork índigo | https://wwd.com/sourcing-journal/sj-denim/gallery/milan-fashion-week-mens-spring-summer-2027-denim-1239045784/ | sin URL directa | Medio: Sourcing Journal / WWD (foto y crédito no vistos) |
+| T7 | Ralph Lauren | SS27 Men | n/d | Chaqueta de inspiración boro | https://wwd.com/sourcing-journal/sj-denim/gallery/milan-fashion-week-mens-spring-summer-2027-denim-1239045784/ | sin URL directa | Medio: Sourcing Journal / WWD (foto y crédito no vistos) |
+| T7 | Prada | SS27 Men | n/d | Chaqueta de jean corta usada como camisa | https://www.unnamedproject.com/prada-ss-27-mens/ | sin URL directa | Medio: Unnamed Project (foto y crédito no vistos) |
+| T7 | Dior | SS27 Men | n/d | Camisa de denim slim y desgastada | https://wwd.com/sourcing-journal/sj-denim/spring-summer-2027-denim-trends-paris-fashion-week-1239317968/ | sin URL directa | Medio: Sourcing Journal / WWD (foto y crédito no vistos) |
+| T7 | Lee | 91-J "100-Year Anniversary" (FW26) | producto | Chore coat forrado y premium (reedición) | https://www.gearpatrol.com/briefings/today-in-gear/today-in-gear-october-5-2026/ | sin URL directa | Medio: Gear Patrol (foto y crédito no vistos) |
 
 Fuentes pendientes de abrir para imágenes reales: las galerías de Vogue Runway de Prada, Dior, Celine, Acne Studios y Diesel (SS27 Men y FW26 Men). No aparecieron en los resultados y la búsqueda dedicada no se pudo ejecutar porque el cupo estaba agotado.
 
@@ -257,21 +257,21 @@ Fuentes pendientes de abrir para imágenes reales: las galerías de Vogue Runway
 
 ## 4. Productos ejemplo
 
-**Estado: ningún producto verificado.** Los URLs aparecieron en resultados de búsqueda del 5 nov. 2026 y **no se pudieron abrir** (WebFetch bloqueado por la red del entorno). Varios son páginas de categoría, no de producto. No se anotan precios, salvo los que el snippet mostraba. Se llegó a **11 filas**, por debajo del objetivo de 12-18.
+**Estado: ningún producto abierto.** Los URLs son exactamente los que devolvieron los resultados de búsqueda del 5 nov. 2026, y cada uno va marcado "enlace de resultado de búsqueda, no abierto". Varios son páginas de categoría, no de producto. Solo se anotan precios que aparecían en el extracto. **11 filas**, por debajo del objetivo de 12-18: no quedó cupo de búsqueda para sumar más.
 
 | Tendencia | Marca | Producto | Precio | URL | Verificación + fecha |
 |---|---|---|---|---|---|
-| T2 | Levi's | Baggy Barrel Men's Jeans (código 0057O0001) | no visto | https://www.levi.com/US/en_US/p/0057O0001 | no verificado (bloqueado); visto en búsqueda el 5-nov-2026 |
-| T2 | Levi's | Baggy Barrel Jeans (código 0057O0004, CA) | no visto | https://www.levi.com/CA/en_CA/clothing/men/baggy-barrel-mens-jeans/p/0057O0004 | no verificado (bloqueado); 5-nov-2026 |
-| T2 | Levi's | Baggy Barrel Jeans (código 0057O0001, IE) | no visto | https://www.levi.com/IE/en_IE/clothing/men/jeans/loose-jeans/baggy-barrel-jeans/p/0057O0001 | no verificado (bloqueado); 5-nov-2026 |
-| T2 | Primark (mass) | Men's Barrel Jeans (**categoría**) | no visto | https://www.primark.com/en-us/c/men/clothing/jeans/barrel-jeans | no verificado (bloqueado); categoría, no producto; 5-nov-2026 |
-| T2 | Zara (mass) | Man Jeans (**categoría**, Puerto Rico) | no visto | https://www.zara.com/pr/en/man-jeans-l659.html | no verificado (bloqueado); categoría; 5-nov-2026 |
-| T5 | ASOS (mass) | Men's denim shorts (**categoría**, 53 estilos; largos standard, mid y long) | no visto | https://www.asos.com/us/men/shorts/denim-shorts/cat/pgecategory.aspx?cid=13138 | no verificado (bloqueado); categoría; 5-nov-2026 |
-| T5 | Walmart (marketplace, mass) | "Men's Casual Denim Shorts… Loose Fit… Knee Length Jeans Shorts" | no visto | https://www.walmart.com/ip/17171004505 | no verificado (bloqueado); vendedor de marketplace, calidad dudosa; 5-nov-2026 |
-| T7 | Lee x Crayola (vía Urban Outfitters) | Lee X Crayola Chore Jacket | no visto | https://www.urbanoutfitters.com/shop/lee-x-crayola-chore-jacket | no verificado (bloqueado); vigencia del listado desconocida; 5-nov-2026 |
-| T7 | Lee x Crayola (vía ASOS) | Lee x Crayola Classic Chore Coat in Dark Green Stripe | no visto | https://www.asos.com/us/lee/lee-x-crayola-classic-chore-coat-in-dark-green-stripe-part-of-a-set/prd/209424579 | no verificado (bloqueado); 5-nov-2026 |
-| T7 | Lee (vía Buck Mason, premium) | Lee Blanket Lined 81-LJ Denim Chore Jacket | no visto | https://buckmason.com/products/lee-blanket-lined-81-lj-denim-chore-jacket-0088 | no verificado (bloqueado); 5-nov-2026 |
-| T2/T1 | Our Legacy (vía Tres Bien, lujo/premium) | Our Legacy denim trousers (**categoría**) | no visto | https://tres-bien.com/collections/our-legacy-denim-trousers | no verificado (bloqueado); categoría; temporada no clara; 5-nov-2026 |
+| T2 | Levi's | Baggy Barrel Men's Jeans (código 0057O0001) | no mostrado en el extracto | https://www.levi.com/US/en_US/p/0057O0001 | enlace de resultado de búsqueda, no abierto; 5-nov-2026 |
+| T2 | Levi's | Baggy Barrel Jeans (código 0057O0004, CA) | no mostrado en el extracto | https://www.levi.com/CA/en_CA/clothing/men/baggy-barrel-mens-jeans/p/0057O0004 | enlace de resultado de búsqueda, no abierto; 5-nov-2026 |
+| T2 | Levi's | Baggy Barrel Jeans (código 0057O0001, IE) | no mostrado en el extracto | https://www.levi.com/IE/en_IE/clothing/men/jeans/loose-jeans/baggy-barrel-jeans/p/0057O0001 | enlace de resultado de búsqueda, no abierto; 5-nov-2026 |
+| T2 | Primark (mass) | Men's Barrel Jeans (**categoría**) | no mostrado en el extracto | https://www.primark.com/en-us/c/men/clothing/jeans/barrel-jeans | enlace de resultado de búsqueda, no abierto; categoría, no producto; 5-nov-2026 |
+| T2 | Zara (mass) | Man Jeans (**categoría**, Puerto Rico) | no mostrado en el extracto | https://www.zara.com/pr/en/man-jeans-l659.html | enlace de resultado de búsqueda, no abierto; categoría; 5-nov-2026 |
+| T5 | ASOS (mass) | Men's denim shorts (**categoría**, 53 estilos; largos standard, mid y long) | no mostrado en el extracto | https://www.asos.com/us/men/shorts/denim-shorts/cat/pgecategory.aspx?cid=13138 | enlace de resultado de búsqueda, no abierto; categoría; 5-nov-2026 |
+| T5 | Walmart (marketplace, mass) | "Men's Casual Denim Shorts… Loose Fit… Knee Length Jeans Shorts" | no mostrado en el extracto | https://www.walmart.com/ip/17171004505 | enlace de resultado de búsqueda, no abierto; vendedor de marketplace, calidad dudosa; 5-nov-2026 |
+| T7 | Lee x Crayola (vía Urban Outfitters) | Lee X Crayola Chore Jacket | no mostrado en el extracto | https://www.urbanoutfitters.com/shop/lee-x-crayola-chore-jacket | enlace de resultado de búsqueda, no abierto; vigencia del listado desconocida; 5-nov-2026 |
+| T7 | Lee x Crayola (vía ASOS) | Lee x Crayola Classic Chore Coat in Dark Green Stripe | no mostrado en el extracto | https://www.asos.com/us/lee/lee-x-crayola-classic-chore-coat-in-dark-green-stripe-part-of-a-set/prd/209424579 | enlace de resultado de búsqueda, no abierto; 5-nov-2026 |
+| T7 | Lee (vía Buck Mason, premium) | Lee Blanket Lined 81-LJ Denim Chore Jacket | no mostrado en el extracto | https://buckmason.com/products/lee-blanket-lined-81-lj-denim-chore-jacket-0088 | enlace de resultado de búsqueda, no abierto; 5-nov-2026 |
+| T2/T1 | Our Legacy (vía Tres Bien, lujo/premium) | Our Legacy denim trousers (**categoría**) | no mostrado en el extracto | https://tres-bien.com/collections/our-legacy-denim-trousers | enlace de resultado de búsqueda, no abierto; categoría; temporada no clara; 5-nov-2026 |
 
 Productos citados en prensa **sin URL de producto**: jeans relaxed straight de Sheppard Denim Co., **US$170**, lanzamiento el 22 nov. 2026 (aún no a la venta; fuente: WWD/SJ). Levi's 501 Loose y 501 Relax (citados por la empresa en el Q3; URL no obtenido). Lee 91-J 100-Year Anniversary (Gear Patrol; URL de producto no obtenido).
 Falta cubrir lujo: Prada, Dior, Acne Studios, Diesel y Celine en SSENSE o Mr Porter. También Uniqlo, H&M, Pull&Bear, Gap, Wrangler, Carhartt WIP y AGOLDE. Las búsquedas ya no se pudieron hacer porque el cupo estaba agotado.
@@ -289,7 +289,7 @@ Falta cubrir lujo: Prada, Dior, Acne Studios, Diesel y Celine en SSENSE o Mr Por
 - **Short:** **bermuda a la rodilla o justo encima**, pierna amplia y bajo deshilachado o con dobladillo ancho. Es el formato más vendible del tema "cut-off" de pasarela.
 - **Clima cálido:** pedir a las tejedurías denim ligero con **lino, cáñamo o lyocell (Tencel HV100)** y tejidos abiertos o perforados (Soorty Aeroweave, Candiani lino-algodón, Freedom "Best of Bast"). **Ninguna fuente consultada da pesos en oz.** Como referencia general de industria, y no de estas fuentes, el denim de verano suele moverse en pesos bajos y medios; hay que definir el peso con fichas técnicas. En colores de calor conviene priorizar azules claros, ecru, blanco y amarillo pálido sobre el índigo muy oscuro o el negro en prendas de sol directo.
 - **Lavandería y cumplimiento:** con el PP en la watchlist de ZDHC (feb. 2026) y una iniciativa "PP-free" anunciada el 2 nov. 2026, conviene planificar **efectos vintage sin permanganato** (láser y alternativas como organIQ de CHT o ZeroPP de Officina39) en las lavanderías regionales. Los clientes de exportación lo pedirán.
-- **Manufactura LatAm (con evidencia limitada) [SNIPPET]:**
+- **Manufactura LatAm (con evidencia limitada) (extracto de búsqueda, página no abierta):**
   - **México:** Kaltex abastece a Levi's, Lee y Wrangler y usa tecnologías de Tonello (Ecofree, No Stone) para el look acid-wash ([WWD/SJ, fecha dudosa, posiblemente antigua](https://wwd.com/sourcing-journal/sj-denim/mexico-jeans-makers-global-denim-sustainability-kaltex-tavex-jeanswest-tonello-1238769374/); [WWD/SJ](https://wwd.com/sourcing-journal/sj-denim/fabric-trends-mills-influence-denim-fashion-calik-kaltex-artistic-milliners-1238740776/)).
   - **México:** Artistic Milliners tiene planta en Parras (10 acres, 150.000 ft² de producción) dedicada a confección **y lavandería** de jeans ([just-style](https://www.just-style.com/news/artistic-millers-mexico-facility/), fecha no visible).
   - **México:** Cone opera en Parras y Yecapixtla desde mediados de los 90. La cifra de capacidad (60 M de yardas al año) salió de un snippet de fecha incierta, y el estado del acuerdo Cone-Artistic es contradictorio.
@@ -311,7 +311,7 @@ Falta cubrir lujo: Prada, Dior, Acne Studios, Diesel y Celine en SSENSE o Mr Por
 
 ## 6. No verificado / vacíos
 
-- **Bloqueo técnico:** WebFetch falló por DNS o política de red en fashionunited.com, wwd.com, out.com y morningstar.com, y no se probaron más hosts. Más tarde se agotó el cupo de WebSearch, compartido entre agentes. **Ningún dato de este archivo se leyó en una página abierta; todo es [SNIPPET].**
+- **Bloqueo técnico:** WebFetch falló por DNS o política de red en fashionunited.com, wwd.com, out.com y morningstar.com, y no se probaron más hosts. Más tarde se agotó el cupo de WebSearch, compartido entre agentes. **Ningún dato de este archivo se leyó en una página abierta; todo es extracto de búsqueda (página no abierta).**
 - **Imágenes:** 0 URLs directas de imagen y 0 créditos. No se abrieron galerías de Vogue Runway.
 - **Productos:** 0 verificados, 11 candidatos (varios son categorías) y casi sin precios. Faltan el nivel lujo (Prada, Dior, Acne, Diesel, Celine) y Uniqlo, H&M, Pull&Bear, Gap, Wrangler, Carhartt WIP y AGOLDE.
 - **Pesos en oz:** no aparecieron en ninguna fuente.
@@ -336,11 +336,11 @@ Falta cubrir lujo: Prada, Dior, Acne Studios, Diesel y Celine en SSENSE o Mr Por
 
 ## 7. Fuentes
 
-Todas aparecieron en resultados de WebSearch del 5 nov. 2026; **ninguna se abrió**. "Inferida del URL" significa que la fecha se dedujo del número en el URL.
+Todas aparecieron en resultados de WebSearch del 5 nov. 2026; **ninguna se abrió**. "Fecha según el URL" significa que la fecha solo figura en el número del URL.
 
 | URL | Medio | Título | Fecha de publicación |
 |---|---|---|---|
-| https://fashionunited.com/news/fashion/ss27-mens-double-denim-trend-prada-sacai-saul-nash-and-more/2026080873864 | FashionUnited | SS27 Men's double denim trend: Prada, Sacai, Saul Nash and more | 8 ago. 2026 (inferida del URL; fetch fallido) |
+| https://fashionunited.com/news/fashion/ss27-mens-double-denim-trend-prada-sacai-saul-nash-and-more/2026080873864 | FashionUnited | SS27 Men's double denim trend: Prada, Sacai, Saul Nash and more | 8 ago. 2026 (según el URL; fetch fallido) |
 | https://fashionunited.uk/news/fashion/mens-denim-fw26-highlights-dior-homme-juun-j-dsquared2-and-more/2026022886430 | FashionUnited | Men's denim FW26 highlights: Dior Homme, Juun J, DSquared2 and more | 28 feb. 2026 |
 | https://wwd.com/sourcing-journal/sj-denim/paris-fashion-week-mens-trends-shorts-skinny-jeans-1239059656/ | Sourcing Journal / WWD | Paris Fashion Week Men's Denim Trends: Shorts and Skinny Jeans Take the Spotlight | julio de 2026 aprox. |
 | https://wwd.com/sourcing-journal/sj-denim/gallery/milan-fashion-week-mens-spring-summer-2027-denim-1239045784/ | Sourcing Journal / WWD | Milan Fashion Week Men's: Spring/Summer 2027 Denim | junio-julio de 2026 aprox. |
@@ -362,7 +362,7 @@ Todas aparecieron en resultados de WebSearch del 5 nov. 2026; **ninguna se abri�
 | https://www.fashiontimes.com/prada-spring-2027-menswear-blurred-lines-olivia-wilde-wore-proof-14650 | Fashion Times | Prada Spring 2027 Menswear Blurred the Lines… | no visible |
 | https://www.behindtheblinds.be/btb-show-report/dior-men-ss27 | Behind the Blinds | Dior Men SS27 | no visible |
 | https://www.harpersbazaar.com.sg/fashion/runway/dior-men-spring-summer-2027-review | Harper's Bazaar SG | Dior's Menswear Turns The Morning After Into A Chic Affair | no visible |
-| https://fashionunited.es/noticias/moda/anderson-pone-toques-de-fiesta-en-su-coleccion-para-dior-en-un-paris-canicular/2026062449826 | FashionUnited ES | Anderson pone toques de fiesta en su colección para Dior… | 24 jun. 2026 (inferida del URL) |
+| https://fashionunited.es/noticias/moda/anderson-pone-toques-de-fiesta-en-su-coleccion-para-dior-en-un-paris-canicular/2026062449826 | FashionUnited ES | Anderson pone toques de fiesta en su colección para Dior… | 24 jun. 2026 (según el URL) |
 | https://dev.achtung-mode.com/?p=52958 | Achtung Mode | Paris Men's S/S 2027 Highlights Part 1 | no visible |
 | https://denimology.com/?p=18891 | Denimology | Acne Studios – Spring 2027 Menswear | no visible |
 | https://rain-mag.com/Acne-Studios-Menswear-Spring-Summer-2027-Makes-the-Office-Fun-Again | Rain Magazine | Acne Studios Menswear SS27 Makes the Office Fun Again | 30 ago. 2026 |
@@ -384,8 +384,8 @@ Todas aparecieron en resultados de WebSearch del 5 nov. 2026; **ninguna se abri�
 | https://www.themarketsdaily.com/?p=9963510 | The Markets Daily | What Levi Strauss & Co. (LEVI) Said on Its Q3 Earnings Call | oct. 2026 |
 | https://chainstoreage.com/levis-q3-profit-tops-estimates-dtc-drives-sales-could-double-us-store-count | Chain Store Age | Levi's Q3 profit tops estimates… | no visible (posible otro año) |
 | https://www.morningstar.com/news/business-wire/20261007513688/levi-strauss-co-reports-third-quarter-results | Business Wire vía Morningstar | Levi Strauss & Co. Reports Third-Quarter Results | 7 oct. 2026 (fetch fallido) |
-| https://fashionunited.uk/news/business/sedgwick-cole-jr-on-how-lees-chore-coat-outlasted-a-century-of-trends/2026102190945 | FashionUnited | Sedgwick Cole Jr. on how Lee's chore coat outlasted a century of trends | 21 oct. 2026 (inferida del URL) |
-| https://fashionunited.de/nachrichten/business/100-jahre-chore-coat-wie-lees-arbeitsjacke-allen-trends-trotzte/2026102269040 | FashionUnited DE | 100 Jahre Chore Coat | 22 oct. 2026 (inferida del URL) |
+| https://fashionunited.uk/news/business/sedgwick-cole-jr-on-how-lees-chore-coat-outlasted-a-century-of-trends/2026102190945 | FashionUnited | Sedgwick Cole Jr. on how Lee's chore coat outlasted a century of trends | 21 oct. 2026 (según el URL) |
+| https://fashionunited.de/nachrichten/business/100-jahre-chore-coat-wie-lees-arbeitsjacke-allen-trends-trotzte/2026102269040 | FashionUnited DE | 100 Jahre Chore Coat | 22 oct. 2026 (según el URL) |
 | https://www.gearpatrol.com/briefings/today-in-gear/today-in-gear-october-5-2026/ | Gear Patrol | Today in Gear: Lee… 100-Year Anniversary 91-J | 5 oct. 2026 |
 | https://wwd.com/sourcing-journal/sj-denim/denim-2026-cfda-fashion-awards-gap-ralph-lauren-demi-moore-1239399394/ | Sourcing Journal / WWD | Denim Makes a Red Carpet Statement at the 2026 CFDA Fashion Awards | ~3 nov. 2026 (según listado) |
 | https://wwd.com/sourcing-journal/sj-denim/sheppard-denim-co-farm-to-fashion-supply-chain-cone-1239390810/ | Sourcing Journal / WWD | How This New Denim Brand Is Building a Farm-to-Fashion Supply Chain | no visible (oct.-nov. de 2026 aprox.) |
@@ -399,7 +399,7 @@ Todas aparecieron en resultados de WebSearch del 5 nov. 2026; **ninguna se abri�
 | https://www.just-style.com/news/kingpins-amsterdam-2026-traffic/ | Just Style | Kingpins Amsterdam 2026 traffic | abr. 2026 aprox. |
 | https://www.texspacetoday.com/kingpins-show-amsterdam-2026-the-worlds-denim-community-convenes/ | Textile Today / TexSpace | Kingpins Show Amsterdam 2026: The world's denim community convenes | abr. 2026 aprox. |
 | https://www.munichfabricstart.com/wp-content/uploads/2026/07/MFS_Pressemitteilung_Schlussbericht-Juli2026_DE_final.pdf | Munich Fabric Start | Schlussbericht Juli 2026 (AW27/28, "TASTE") | jul. 2026 |
-| https://fashionunited.uk/news/fairs/munich-fabric-start-bluezone-pleasure-imperfection-and-the-return-of-elegance/2026012986007 | FashionUnited | Munich Fabric Start & Bluezone: Pleasure, imperfection and the return of elegance | 29 ene. 2026 (inferida del URL) |
+| https://fashionunited.uk/news/fairs/munich-fabric-start-bluezone-pleasure-imperfection-and-the-return-of-elegance/2026012986007 | FashionUnited | Munich Fabric Start & Bluezone: Pleasure, imperfection and the return of elegance | 29 ene. 2026 (según el URL) |
 | https://finance.yahoo.com/news/business-unusual-denim-industry-reshaping-153852851.html | Yahoo Finance | Business unusual: denim industry reshaping | no visible |
 | https://wwd.com/sourcing-journal/sj-denim/sustainable-high-performance-fibers-redefine-denim-trends-1238857994/ | Sourcing Journal / WWD | Sustainable, High-Performance Fibers Redefine SS27 Denim Trends | no visible (posible 2025) |
 | https://wwd.com/sourcing-journal/sj-denim/denim-mills-innovate-cleaner-smarter-spring-summer-2027-1238857997/ | Sourcing Journal / WWD | Denim Mills Innovate for a Cleaner, Smarter SS27 | no visible (posible 2025) |
